@@ -1,0 +1,62 @@
+{
+	"code": "vesselpot",
+	"class": "BlockPlantContainer",
+	"entityClass": "PlantContainer",
+	"behaviorsByType": {
+		"*": [ { "name": "UnstableFalling" } ],
+	},
+	"variantgroups": [
+		{ "code": "variant", "states": ["blue", "fire", "red"] },
+		{ "code": "type", "states": ["raw"] }
+	],
+	"shape": { "base": "apeflowerpots:block/clay/storagevessel/full" },
+	"texturesByType": {
+		"*": {
+			"ceramic": { "base": "game:block/clay/{variant}clay" },
+			"top": { "base": "game:block/clay/{variant}clay" },
+			"sides": { "base": "game:block/clay/{variant}clay" },
+			"inside": { "base": "game:block/clay/{variant}clay" },
+			"soil": { "base": "game:block/soil/fertmedium" }
+		},
+	},
+	"attributes": {
+		"sitHeight": 0.75,
+		"beeFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"butterflyFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"plantContainerSize": "vessel",
+		"filledShape": { "base": "apeflowerpots:block/clay/storagevessel/full" },
+		"fillHeight": 0.850,
+	},
+	"creativeinventory": { "general": ["*"], "decorative": ["*"], "apeflowerpots": ["*"] },
+	"heldTpIdleAnimation": "holdunderarm",
+	"blockmaterial": "Ceramic",
+	"replaceable": 900,
+	"resistance": 1.5,
+	"lightAbsorption": 1,
+	"maxStackSize": 8,
+	"sidesolid": {
+		"all": false
+	},	
+	"sideopaque": {
+		"all": false
+	},
+	"emitsideao": {
+		"all": false
+	},
+	"sounds": {
+		"walk": "game:walk/stone",
+		"break": "game:block/ceramicplace",
+		"hit": "game:block/ceramichit",
+		"place": "game:block/ceramicplace"
+	},
+	"collisionbox": { "x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.875, "z2": 0.875 },
+	"selectionbox": { "x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.875, "z2": 0.875 },
+	"guiTransform": { "origin": { "x": 0.5, "y": 0.4, "z": 0.5 }, "scale": 1.22	},
+	"tpHandTransform": { "translation": { "x": -1.1, "y": -0.5, "z": -1 }, "rotation": { "x": 0, "y": 9, "z": -84 }, "origin": { "x": 0.5, "y": 0.5, "z": 0.6 }, "scale": 0.47 }
+}

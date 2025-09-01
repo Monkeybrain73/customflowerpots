@@ -1,0 +1,117 @@
+{
+	"code": "windowclayplanter",
+	"class": "CustomPlanter",
+	"entityClass": "PlantContainer",
+	"behaviorsByType": {
+		"*-plain-*": [
+			{ "name": "CF.BBName",
+				"properties": { "parts": ["apeflowerpots:undecoratedclayplanter", " ", "apeflowerpots:claycolor-{material}"] }
+			},
+			{ "name": "Lockable"},
+			{ "name": "HorizontalAttachable", "properties": {  "dropBlockFace": "east" }}
+		],
+		"*": [
+			{ "name": "CF.BBName",
+				"properties": { "parts": ["apeflowerpots:decoratedclayplanter", " ", "apeflowerpots:{design}", " ", "apeflowerpots:claycolor-{material}"] }
+			},
+			{ "name": "Lockable"},
+			{ "name": "HorizontalAttachable", "properties": {  "dropBlockFace": "east" }}
+		],
+	},
+	"variantgroups": [
+		{ "code": "material", "states": ["tan", "orange", "red", "brown", "cream", "gray", "black", "fire"] },
+		{ "code": "design", "states": ["plain", "chthonic", "amber", "ashforest", "copper", "earthern", "loam", "ochre", "rime", "seasalt", "tenmoku", "undergrowth"] },
+		{ "code": "side", "loadFromProperties": "abstract/horizontalorientation"}
+	],
+	"shapeByType": {
+		"*-north": { "base": "apeflowerpots:block/misc/windowbox/claybox1n/full"},
+		"*-east": { "base": "apeflowerpots:block/misc/windowbox/claybox1e/full"},
+		"*-west": { "base": "apeflowerpots:block/misc/windowbox/claybox1w/full"},
+		"*-south": { "base": "apeflowerpots:block/misc/windowbox/claybox1s/full"}
+	},
+	"texturesByType": {
+		"*-plain-*": {
+			"ceramic": {  "base": "game:block/clay/hardened/{material}" },
+			"design": { "base": "game:block/clay/hardened/{material}" }
+		},
+		"*-chthonic-*": { 
+			"ceramic": {  "base": "game:block/clay/hardened/{material}" },
+			"design": { "base": "game:block/clay/vessel/sides/{design}" }
+		},
+		"*": { 
+			"ceramic": {  "base": "game:block/clay/hardened/{material}" },
+			"design": { "base": "game:block/clay/planter/{design}" }
+		}
+	},
+	"attributes": {
+		"handbook": { "groupBy": ["windowclayplanter-*"] },
+		"sitHeight": 0.75,
+		"beeFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"butterflyFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"plantContainerSizeByType": {
+			"*-north": "claybox1n",
+			"*-east": "claybox1e",
+			"*-west": "claybox1w",
+			"*-south": "claybox1s"
+		},
+		"filledShapeByType": {
+			"*-north": { "base": "apeflowerpots:block/misc/windowbox/claybox1n/full" },
+			"*-east": { "base": "apeflowerpots:block/misc/windowbox/claybox1e/full" },
+			"*-west": { "base": "apeflowerpots:block/misc/windowbox/claybox1w/full" },
+			"*-south": { "base": "apeflowerpots:block/misc/windowbox/claybox1s/full" },
+			"*": { "base": "apeflowerpots:block/misc/windowbox/claybox1n/full" }
+		},
+		"fillHeight": 0.850
+	},
+	"creativeinventory": { "general": ["*-east"], "decorative": ["*-east"], "apeflowerpots": ["*-east"] },
+	"heldTpIdleAnimation": "holdbothhandslarge", "heldTpUseAnimation": "twohandplaceblock",
+	"blockmaterial": "Ceramic",
+	"replaceable": 900,
+	"resistance": 1.5,
+	"lightAbsorption": 1,
+	"maxStackSize": 8,
+	"sidesolid": {
+		"all": false
+	},	
+	"sideopaque": {
+		"all": false
+	},
+	"emitsideao": {
+		"all": false
+	},
+	"sounds": {
+		"walk": "game:walk/stone",
+		"break": "game:block/ceramicplace",
+		"hit": "game:block/ceramichit",
+		"place": "game:block/ceramicplace"
+	},
+	"collisionboxByType": {
+		"*-north": { "x1": 0.063, "y1": 0.6192, "z1": 0, "x2": 0.937, "y2": 0.9438, "z2": 0.4, "rotateY": 0 },
+		"*-east": { "x1": 0.063, "y1": 0.6192, "z1": 0, "x2": 0.937, "y2": 0.9438, "z2": 0.4, "rotateY": 270 },
+		"*-west": { "x1": 0.063, "y1": 0.6192, "z1": 0, "x2": 0.937, "y2": 0.9438, "z2": 0.4, "rotateY": 90 },
+		"*-south": { "x1": 0.063, "y1": 0.6192, "z1": 0, "x2": 0.937, "y2": 0.9438, "z2": 0.4, "rotateY": 180 }
+	},
+	"selectionboxByType": {
+		"*-north": { "x1": 0.063, "y1": 0.6192, "z1": 0, "x2": 0.937, "y2": 0.9438, "z2": 0.4 , "rotateY": 0 },
+		"*-east": { "x1": 0.063, "y1": 0.6192, "z1": 0, "x2": 0.937, "y2": 0.9438, "z2": 0.4 , "rotateY": 270 },
+		"*-west": { "x1": 0.063, "y1": 0.6192, "z1": 0, "x2": 0.937, "y2": 0.9438, "z2": 0.4 , "rotateY": 90 },
+		"*-south": { "x1": 0.063, "y1": 0.6192, "z1": 0, "x2": 0.937, "y2": 0.9438, "z2": 0.4 , "rotateY": 180 }
+	},
+	"guiTransform": {
+		"rotation": { "x": -22.6, "y": -120, "z": 0 },
+		"origin": { "x": 0.8, "y": 0.76, "z": 0.5 },
+		"scale": 1.8
+	},
+	"tpHandTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 11, "y": 16, "z": -80 },
+		"origin": { "x": 0.39, "y": 0.17, "z": 0.27 },
+		"scale": 0.69
+	}
+}

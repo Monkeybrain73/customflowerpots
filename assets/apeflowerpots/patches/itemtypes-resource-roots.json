@@ -1,0 +1,1313 @@
+[
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:itemtypes/resource/papyrusroot.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"anvilContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"cratenormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"crateruined1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"cratesmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"cratesmallstackedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"cratemediumContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"crateagedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"troughlargeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"metalbarrel1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"metalbarrel2Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"metaltank1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"barrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"sodplanterNContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"sodplanterWContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"sodplanterSContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"sodplanterEContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/papyrus-medium" }
+			},
+			"bucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"ruinedbucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"crockContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"cookpotdirtyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"cookpotContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"wateringcanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"woodenpanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"backpacknormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"handbasketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"basketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"troughsmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"vesselContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"alchemistContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"blackguardContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"commonerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"forlornContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"reindeerherderContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"steppeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"highleatherContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"hunterContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"jailorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"kingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"kneehighContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"lackeyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"malefactorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"metalcapContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"minerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"minstrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"nomadContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"princeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"rottenkingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"rotwalkerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"squireContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"survivorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"temptressContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"woolContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"messengerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"chutesectionContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"chuteelbowContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			},
+			"chutetContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
+			}
+		},
+		"side": "server"
+	},
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:itemtypes/resource/catttailroot.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"anvilContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"cratenormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"crateruined1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"cratesmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"cratesmallstackedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"cratemediumContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"crateagedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"troughlargeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"metalbarrel1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"metaltank1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"barrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"sodplanterNContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"sodplanterWContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"sodplanterSContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"sodplanterEContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/coopersreed-normal*" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"bucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"ruinedbucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"crockContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"cookpotdirtyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"cookpotContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"wateringcanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"woodenpanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"backpacknormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"handbasketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"basketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"troughsmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"vesselContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"alchemistContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"blackguardContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"commonerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"forlornContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"reindeerherderContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"steppeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"highleatherContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"hunterContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"jailorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"kingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"kneehighContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"lackeyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"malefactorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"metalcapContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"minerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"minstrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"nomadContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"princeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"rottenkingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"rotwalkerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"squireContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"survivorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"temptressContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"woolContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"messengerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"chutesectionContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"chuteelbowContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			},
+			"chutetContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
+			}
+		},
+		"side": "server"
+	},
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:itemtypes/resource/tuleroot.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"anvilContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"cratenormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"crateruined1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"cratesmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"cratesmallstackedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"cratemediumContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"crateagedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"troughlargeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"metalbarrel1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"metaltank1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"barrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"sodplanterNContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"sodplanterWContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"sodplanterSContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"sodplanterEContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/reedpapyrus/tule-tufts" }
+			},
+			"bucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"ruinedbucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"crockContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"cookpotdirtyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"cookpotContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"wateringcanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"woodenpanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"backpacknormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"handbasketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"basketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"troughsmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"vesselContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"alchemistContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"blackguardContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"commonerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"forlornContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"reindeerherderContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"steppeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"highleatherContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"hunterContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"jailorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"kingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"kneehighContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"lackeyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"malefactorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"metalcapContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"minerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"minstrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"nomadContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"princeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"rottenkingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"rotwalkerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"squireContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"survivorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"temptressContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"woolContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"messengerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"chutesectionContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"chuteelbowContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"chutetContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"clayboxgContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"claybox1nContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"claybox1eContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"claybox1wContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"claybox1sContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			}
+		},
+		"side": "server"
+	}
+]

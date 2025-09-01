@@ -1,0 +1,29 @@
+{
+	"code": "planterpart",
+	"variantGroups": [
+		{ "code": "type", "states": [ "hook" ] },
+		{ "code": "material", "states": [ "iron" ] }
+	],
+	"maxstacksize": 16,
+	"drawtype": "json",
+	"shape": { "base": "apeflowerpots:item/tool/part/{type}" },
+	"texturesByType": {
+		"planterpart-*-iron": { "metal": { "base": "game:block/coal/bituminous" } },
+		"*": { "metal": { "base": "game:block/metal/ingot/{material}"} }
+	},
+	"storageFlags": 1,
+	"creativeinventory": { "general": [ "*" ], "items": [ "*" ], "apeflowerpots": [ "*" ]
+	},
+	"tpHandTransform": {
+		"translation": { "x": 0.25, "y": 0.2, "z": 0.1 },
+		"rotation": { "x": -26, "y": 5, "z": -10 },
+		"origin": { "x": 0, "y": 0, "z": 0.2 },
+		"scale": 0.55
+	},
+	"guiTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": -96, "y": -14, "z": -21 },
+		"origin": { "x": 0.5, "y": -0.22, "z": 0.5 },
+		"scale": 2.11
+	}
+}

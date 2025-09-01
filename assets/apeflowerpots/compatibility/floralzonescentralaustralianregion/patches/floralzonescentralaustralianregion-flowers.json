@@ -1,0 +1,387 @@
+[
+{
+	"enabled": true,
+	"op": "addmerge",
+	"path": "/attributes/plantContainable",
+	"value": {
+			"anvilContainerByType": {
+				"*-atriplexnummularia-*": {"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"cratenormalContainerByType": {
+				"*-atriplexnummularia-*": {"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"crateruined1ContainerByType": {
+				"*-atriplexnummularia-*": {"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"cratesmallContainerByType": {
+				"*-atriplexnummularia-*": {"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"cratesmallstackedContainerByType": {
+				"*-atriplexnummularia-*": {"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"cratemediumContainerByType": {
+				"*-atriplexnummularia-*": {"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"crateagedContainerByType": {
+				"*-atriplexnummularia-*": {"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"troughlargeContainerByType": {
+				"*-atriplexnummularia-*": {"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"metalbarrel1ContainerByType": {
+				"*-atriplexnummularia-*": {"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"metalbarrel2ContainerByType": {
+				"*-atriplexnummularia-*": {"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"metaltank1ContainerByType": {
+				"*-atriplexnummularia-*": {"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"barrelContainerByType": {
+				"*-atriplexnummularia-*": {"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"sodplanterNContainerByType": {
+				"*-atriplexnummularia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"sodplanterWContainerByType": {
+				"*-atriplexnummularia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"sodplanterSContainerByType": {
+				"*-atriplexnummularia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"sodplanterEContainerByType": {
+				"*-atriplexnummularia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/atriplexnummularia_var3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-byblispilbarana-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},					
+				"*-calandriniabalonensis-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/calandriniabalonensis"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-eremophilalatrobei-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/eremophilalatrobei_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},		
+				"*-gossypiumsturtianum-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/gossypiumsturtianum"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-polycalymmastuartii-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-ptilotusexaltatus-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-sennapleurocarpa-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/sennapleurocarpa_var2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"bucketContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"ruinedbucketContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"crockContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"cookpotdirtyContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"cookpotContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"crucibleContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"ingotmoldContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"wateringcanContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"woodenpanContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"backpacknormalContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"handbasketContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"basketContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"troughsmallContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"vesselContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"alchemistContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"blackguardContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"commonerContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"forlornContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"reindeerherderContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"steppeContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"highleatherContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"hunterContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"jailorContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"kingContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"kneehighContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"lackeyContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"malefactorContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"metalcapContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"minerContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"minstrelContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"nomadContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"princeContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"rottenkingContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"rotwalkerContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"squireContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"survivorContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"temptressContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"woolContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"messengerContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"chutesectionContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"chuteelbowContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"chutetContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"clayboxgContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			}
+	},
+	"file": "floralzonescentralaustralianregion:blocktypes/plant/flower.json",
+	"side": "server",
+    "dependsOn": [{ "modid": "floralzonescentralaustralianregion" }]
+}
+]

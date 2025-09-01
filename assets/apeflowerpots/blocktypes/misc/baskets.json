@@ -1,0 +1,103 @@
+{
+	"code": "miscflowerpots",
+	"class": "BlockPlantContainer",
+	"entityClass": "PlantContainer",
+	"behaviorsByType": {
+		"*": [ { "name": "UnstableFalling" } ]
+	},
+	"variantgroups": [
+		{ "code": "type", "states": ["handbasket", "basket"] },
+		{ "code": "material", "states": ["reed","papyrus"] }
+	],
+	"shapeByType": {
+		"*-basket-*": { "base": "apeflowerpots:block/misc/basket/full" },
+		"*-handbasket-*": { "base": "apeflowerpots:block/misc/handbasket/full" }
+	},
+	"texturesByType": {
+		"*-basket-*": {
+			"lid": { "base": "game:item/bag/basket/{material}" },
+			"sidesSN": { "base": "game:item/bag/basket/{material}" },
+			"sidesWE": { "base": "game:item/bag/basket/{material}" }
+		},
+		"*-handbasket-*": {
+			"basket": { "base": "game:item/bag/basket/{material}" }
+		}
+	},
+	"attributes": {
+		"sitHeight": 0.75,
+		"beeFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"butterflyFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"plantContainerSizeByType": {
+			"*-handbasket-*": "handbasket",
+			"*-basket-*": "basket"
+		},
+		"filledShapeByType": {
+			"*": { "base": "apeflowerpots:block/misc/{type}/full" }
+		},
+		"fillHeightByType":{
+			"*-handbasket": 0.210,
+			"*-basket": 0.430
+		}
+	},
+	"creativeinventory": { "general": ["*"], "decorative": ["*"], "apeflowerpots": ["*"] },
+	"heldTpIdleAnimationByType": { 
+		"*-handbasket-*": "holdbothhands",
+		"*-basket-*": "holdbothhands",
+		"*": "holdunderarm"
+	},
+	"heldTpUseAnimation": "twohandplaceblock",
+	"blockmaterialByType": {
+		"*-handbasket-*": "Wood",
+		"*-basket-*": "Wood",
+		"*": "Ceramic"
+	},
+	"renderpass": "OpaqueNoCull",
+	"renderAlphaTest": 0.4,
+	"randomDrawOffset": false,
+	"replaceable": 900,
+	"resistance": 1.5,
+	"lightAbsorption": 1,
+	"maxStackSize": 8,
+	"sidesolid": {
+		"all": false
+	},	
+	"sideopaque": {
+		"all": false
+	},
+	"emitsideao": {
+		"all": false
+	},
+	"sounds": {
+		"walk": "game:walk/wood",
+		"break": "game:block/ceramicplace",
+		"hit": "game:block/ceramichit",
+		"place": "game:block/ceramicplace"
+	},
+	"collisionboxByType": {
+		"*-handbasket-*": { "x1": 0.25, "y1": 0, "z1": 0.25, "x2": 0.75, "y2": 0.3, "z2": 0.75 },
+		"*-basket-*": { "x1": 0.1812, "y1": 0, "z1": 0.1124, "x2": 0.875, "y2": 0.494, "z2": 0.875 },
+		"*": { "x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.5625, "z2": 0.875 }
+	},
+	"selectionboxByType": {
+		"*-handbasket-*": { "x1": 0.25, "y1": 0, "z1": 0.25, "x2": 0.75, "y2": 0.3, "z2": 0.75 },
+		"*-basket-*": { "x1": 0.1812, "y1": 0, "z1": 0.1124, "x2": 0.875, "y2": 0.494, "z2": 0.875 },
+		"*": { "x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.5625, "z2": 0.875 }
+	},
+	"guiTransformByType": {
+		"*-handbasket-*": { "origin": { "x": 0.5, "y": 0.35, "z": 0.5 }, "scale": 1.94	},
+		"*-basket-*": { "origin": { "x": 0.5, "y": 0.35, "z": 0.5 }, "scale": 1.45	},
+		"*": { "rotation": {"x": -20, "y": 21, "z": 180 }, "origin": { "x": 0.5, "y": 0.35, "z": 0.5 }, "scale": 1.50, "rotate": true }
+	},
+	"tpHandTransformByType": { 
+		"*-handbasket-*": { "translation": { "x": -1.6, "y": -1, "z": -1.1 }, "rotation": { "x": 24, "y": 21, "z": -73 }, "origin": { "x": 0.5, "y": 0.5, "z": 0.6 }, "scale": 0.54 },
+		"*-basket-*": { "translation": { "x": -1.6, "y": -1, "z": -1.1 }, "rotation": { "x": 24, "y": 21, "z": -73 }, "origin": { "x": 0.5, "y": 0.5, "z": 0.6 }, "scale": 0.54 },
+		"*": { "translation": { "x": -1.1, "y": -0.5, "z": -1 }, "rotation": { "x": 0, "y": -86, "z": -84 }, "origin": { "x": 0.5, "y": 0.5, "z": 0.6 }, "scale": 0.47 }
+	}
+
+}

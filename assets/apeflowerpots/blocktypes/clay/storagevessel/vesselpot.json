@@ -1,0 +1,71 @@
+{
+	"code": "vesselpot",
+	"class": "BlockPlantContainer",
+	"entityClass": "PlantContainer",
+	"behaviors": [
+		{ "name": "CF.BBName",
+			"properties": { "parts": ["apeflowerpots:{variant}", " ", "apeflowerpots:flowerpotlc"] }
+		},
+		{ "name": "UnstableFalling" } 
+	],
+	"variantgroups": [
+		{ "code": "variant", "states": ["ashforest", "chthonic", "copper", "earthen", "rain", "raw", "burned", "cowrie", "rime", "oxblood", "loam", "undergrowth", "beehive", "harvest", "honeydew", "rutile", "seasalt", "springflowers", "volcanic", "cloisonne", "cornflower", "talik", "caveaurora", "collonade", "rattlesnake", "waves", "wintersea"] }
+	],
+	"shape": { "base": "apeflowerpots:block/clay/storagevessel/full" },
+	"texturesByType": {
+		"*-raw": {
+			"ceramic": { "base": "game:block/clay/blueclay" },
+			"top": { "base": "game:block/clay/blueclay" },
+			"sides": { "base": "game:block/clay/blueclay" },
+			"inside": { "base": "game:block/clay/blueclay" },
+			"soil": { "base": "game:block/soil/fertmedium" }
+		},
+		"*": {
+			"ceramic": { "base": "game:block/clay/ceramic" },
+			"top": { "base": "game:block/clay/vessel/top/{variant}" },
+			"sides": { "base": "game:block/clay/vessel/sides/{variant}" },
+			"inside": { "base": "game:block/clay/vessel/inside/{variant}" },
+			"soil": { "base": "game:block/soil/fertmedium" }
+		},
+	},
+	"attributes": {
+		"sitHeight": 0.75,
+		"beeFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"butterflyFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"plantContainerSize": "vessel",
+		"filledShape": { "base": "apeflowerpots:block/clay/storagevessel/full" },
+		"fillHeight": 0.850,
+	},
+	"creativeinventory": { "general": ["*"], "decorative": ["*"], "apeflowerpots": ["*"] },
+	"heldTpIdleAnimation": "holdunderarm",
+	"blockmaterial": "Ceramic",
+	"replaceable": 900,
+	"resistance": 1.5,
+	"lightAbsorption": 1,
+	"maxStackSize": 8,
+	"sidesolid": {
+		"all": false
+	},	
+	"sideopaque": {
+		"all": false
+	},
+	"emitsideao": {
+		"all": false
+	},
+	"sounds": {
+		"walk": "game:walk/stone",
+		"break": "game:block/ceramicplace",
+		"hit": "game:block/ceramichit",
+		"place": "game:block/ceramicplace"
+	},
+	"collisionbox": { "x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.875, "z2": 0.875 },
+	"selectionbox": { "x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.875, "z2": 0.875 },
+	"guiTransform": { "origin": { "x": 0.5, "y": 0.4, "z": 0.5 }, "scale": 1.22	},
+	"tpHandTransform": { "translation": { "x": -1.1, "y": -0.5, "z": -1 }, "rotation": { "x": 0, "y": 9, "z": -84 }, "origin": { "x": 0.5, "y": 0.5, "z": 0.6 }, "scale": 0.47 }
+}

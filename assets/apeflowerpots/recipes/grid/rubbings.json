@@ -1,0 +1,297 @@
+[
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:storagevessel-chthonic", "returnedStack": { "type": "block", "code": "game:storagevessel-chthonic", "attributes": { "type": "normal"} } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-red", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"recipeGroup": 1,
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-chthonic" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:clayplanter-cthonic", "returnedStack": { "type": "block", "code": "game:clayplanter-cthonic" } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-red", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-chthonic" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:storagevessel-copper", "returnedStack": { "type": "block", "code": "game:storagevessel-copper", "attributes": { "type": "normal" } } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-orange", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"recipeGroup": 1,
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-copper" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:clayplanter-copper", "returnedStack": { "type": "block", "code": "game:clayplanter-copper" } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-orange", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-copper" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:storagevessel-loam", "returnedStack": { "type": "block", "code": "game:storagevessel-loam" } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-black", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"recipeGroup": 1,
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-loam" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:clayplanter-loam", "returnedStack": { "type": "block", "code": "game:clayplanter-loam" } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-black", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-loam" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:storagevessel-rime", "returnedStack": { "type": "block", "code": "game:storagevessel-rime", "attributes": { "type": "normal"} } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-white", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"recipeGroup": 1,
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-rime" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:clayplanter-rime", "returnedStack": { "type": "block", "code": "game:clayplanter-rime" } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-white", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-rime" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:storagevessel-seasalt", "returnedStack": { "type": "block", "code": "game:storagevessel-seasalt", "attributes": { "type": "normal"} } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-white", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"recipeGroup": 1,
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-seasalt" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:clayplanter-seasalt", "returnedStack": { "type": "block", "code": "game:clayplanter-seasalt" } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-white", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-seasalt" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:storagevessel-undergrowth", "returnedStack": { "type": "block", "code": "game:storagevessel-undergrowth", "attributes": { "type": "normal"} } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-green", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"recipeGroup": 1,
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-undergrowth" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:clayplanter-undergrowth", "returnedStack": { "type": "block", "code": "game:clayplanter-undergrowth" } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-green", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-undergrowth" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:storagevessel-ashforest", "returnedStack": { "type": "block", "code": "game:storagevessel-ashforest", "attributes": { "type": "normal"} } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-gray", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"recipeGroup": 1,
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-ashforest" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:clayplanter-ashforest", "returnedStack": { "type": "block", "code": "game:clayplanter-ashforest" } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-gray", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-ashforest" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:storagevessel-earthen", "returnedStack": { "type": "block", "code": "game:storagevessel-earthen", "attributes": { "type": "normal"} } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-gray", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"recipeGroup": 1,
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-earthern" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:clayplanter-earthern", "returnedStack": { "type": "block", "code": "game:clayplanter-earthern" } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-gray", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-earthern" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:clayplanter-ochre", "returnedStack": { "type": "block", "code": "game:clayplanter-ochre" } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-yellow", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-ochre" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:clayplanter-amber", "returnedStack": { "type": "block", "code": "game:clayplanter-amber" } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-red", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"recipeGroup": 1,
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-amber" }
+	},
+	{
+		"ingredientPattern": "A_,BD,C_",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:clayplanter-tenmoku", "returnedStack": { "type": "block", "code": "game:clayplanter-tenmoku" } },
+			"B": { "type": "item", "code": "game:paper-parchment" },
+			"D": { "type": "item", "code": "game:charcoal" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-white", "name": "colour" }, "requiresLitres": 0.1	} },
+		"name": "colour",
+		"recipeGroup": 1,
+		"width": 2,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "item", "code": "apeflowerpots:patterntransfer-tenmoku" }
+	}
+]

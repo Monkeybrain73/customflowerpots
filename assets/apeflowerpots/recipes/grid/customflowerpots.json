@@ -1,0 +1,129 @@
+[
+	{
+		"ingredientPattern": "A,D",
+		"ingredients": {
+			"A": { "type": "block", "code": "game:toolmold-*-fired-anvil", "name": "colour" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:anvilmoldplanter-filled-{colour}" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:anvilmoldplanter-filled-*", "name": "colour" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:toolmold-{colour}-fired-anvil" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:storagevessel-*", "name": "variant", "allowedVariants": ["ashforest", "chthonic", "copper", "earthen", "rain",
+					"cowrie", "rime", "oxblood", "loam", "undergrowth",	"beehive", "harvest", "honeydew", "rutile", "seasalt", "springflowers", "volcanic", "cloisonne",
+					"cornflower", "talik", "caveaurora", "collonade", "rattlesnake", "waves", "wintersea"] },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:vesselpot-{variant}" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:storagevessel-*-raw", "name": "variant", "allowedVariants": ["blue", "fire", "red"] },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:vesselpot-{variant}-raw" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:storagevessel-*-fired", "name": "variant", "allowedVariants": ["blue", "fire", "black", "brown", "cream", "gray", "orange", "red", "tan"] },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:vesselpot-{variant}-fired" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:vesselpot-*", "name": "variant", "allowedVariants": ["ashforest", "chthonic", "copper", "earthen", "rain",
+					"cowrie", "rime", "oxblood", "loam", "undergrowth",	"beehive", "harvest", "honeydew", "rutile", "seasalt", "springflowers", "volcanic", "cloisonne",
+					"cornflower", "talik", "caveaurora", "collonade", "rattlesnake", "waves", "wintersea"] }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:storagevessel-{variant}", "attributes": { "type": "normal"} }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:vesselpot-*-raw", "name": "colour" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:storagevessel-{colour}-raw" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:vesselpot-raw" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:storagevessel-blue-raw" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:vesselpot-*-fired", "name": "colour" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:storagevessel-{colour}-fired", "attributes": { "type": "normal"} }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:vesselpot-burned" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:storagevessel-blue-fired", "attributes": { "type": "normal"} }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:slantedroofing-sod-east-free"},
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:sodplanter-east-free" }
+	}
+
+
+
+
+
+
+
+
+]

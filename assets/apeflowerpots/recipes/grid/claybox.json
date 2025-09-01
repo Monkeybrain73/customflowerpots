@@ -1,0 +1,170 @@
+[
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:windowclayplanter-tan-*-east", "name": "design" },
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:groundclayplanter-tan-{design}" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:windowclayplanter-orange-*-east", "name": "design" },
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:groundclayplanter-orange-{design}" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:windowclayplanter-red-*-east", "name": "design" },
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:groundclayplanter-red-{design}" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:windowclayplanter-brown-*-east", "name": "design" },
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:groundclayplanter-brown-{design}" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:windowclayplanter-cream-*-east", "name": "design" },
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:groundclayplanter-cream-{design}" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:windowclayplanter-black-*-east", "name": "design" },
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:groundclayplanter-black-{design}" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:windowclayplanter-gray-*-east", "name": "design" },
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:groundclayplanter-gray-{design}" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:windowclayplanter-fire-*-east", "name": "design" },
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:groundclayplanter-fire-{design}" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:groundclayplanter-tan-*", "name": "design" },
+		},
+		"recipeGroup": 1,
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:windowclayplanter-tan-{design}-east" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:groundclayplanter-orange-*", "name": "design" },
+		},
+		"recipeGroup": 1,
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:windowclayplanter-orange-{design}-east" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:groundclayplanter-red-*", "name": "design" },
+		},
+		"recipeGroup": 1,
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:windowclayplanter-red-{design}-east" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:groundclayplanter-brown-*", "name": "design" },
+		},
+		"recipeGroup": 1,
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:windowclayplanter-brown-{design}-east" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:groundclayplanter-black-*", "name": "design" },
+		},
+		"recipeGroup": 1,
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:windowclayplanter-black-{design}-east" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:groundclayplanter-cream-*", "name": "design" },
+		},
+		"recipeGroup": 1,
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:windowclayplanter-cream-{design}-east" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:groundclayplanter-gray-*", "name": "design" },
+		},
+		"recipeGroup": 1,
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:windowclayplanter-gray-{design}-east" }
+	},
+	{
+		"ingredientPattern": "A",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:groundclayplanter-fire-*", "name": "design" },
+		},
+		"recipeGroup": 1,
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:windowclayplanter-fire-{design}-east" }
+	}
+]

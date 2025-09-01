@@ -1,0 +1,381 @@
+{
+	"code": "windowbox",
+	"class": "CustomPlanter",
+	"entityClass": "PlantContainer",
+	"behaviors": [
+		{ "name": "CF.BBName",
+			"properties": { "parts": ["apeflowerpots:{type}", " ", "apeflowerpots:material-{material}"] }
+		},
+		{ "name": "Lockable"},
+		{ "name": "HorizontalAttachable", "properties": {  "dropBlockFace": "east" }}
+	],
+	"variantgroups": [
+		{"code":"type", "states": ["woodbox1","rustbox1","wattlebox1","metalbox1","metalbox2"]},
+		{"code":"material", "states": ["oak","rusty-iron","reed","aged","birch","maple","pine","acacia","kapok","baldcypress","larch","redwood","ebony","walnut","purpleheart","bismuthbronze","blackbronze","brass","copper","iron","meteoriciron","molybdochalkos","steel","tinbronze"]},
+		{"code":"side", "loadFromProperties": "abstract/horizontalorientation"}
+	],
+	"allowedVariants": [
+		"*-woodbox1-aged-*",
+		"*-woodbox1-oak-*",
+		"*-woodbox1-birch-*",
+		"*-woodbox1-maple-*",
+		"*-woodbox1-pine-*",
+		"*-woodbox1-acacia-*",
+		"*-woodbox1-kapok-*",
+		"*-woodbox1-baldcypress-*",
+		"*-woodbox1-larch-*",
+		"*-woodbox1-redwood-*",
+		"*-woodbox1-ebony-*",
+		"*-woodbox1-walnut-*",
+		"*-woodbox1-purpleheart-*",
+		"*-rustbox1-rusty-iron-*",
+		"*-rustbox1-bismuthbronze-*",
+		"*-rustbox1-blackbronze-*",
+		"*-rustbox1-brass-*",
+		"*-rustbox1-copper-*",
+		"*-rustbox1-iron-*",
+		"*-rustbox1-meteoriciron-*",
+		"*-rustbox1-molybdochalkos-*",
+		"*-rustbox1-tinbronze-*",
+		"*-rustbox1-steel-*",
+		"*-wattlebox1-reed-*",
+		"*-metalbox1-molybdochalkos-*",
+		"*-metalbox1-blackbronze-*",
+		"*-metalbox1-copper-*",
+		"*-metalbox1-tinbronze-*",
+		"*-metalbox1-iron-*",
+		"*-metalbox1-steel-*",
+		"*-metalbox2-iron-*"
+	],
+	"skipVariants": [
+		"*-woodbox1-rusty-iron-*",
+		"*-woodbox1-bismuthbronze-*",
+		"*-woodbox1-blackbronze-*",
+		"*-woodbox1-brass-*",
+		"*-woodbox1-copper-*",
+		"*-woodbox1-iron-*",
+		"*-woodbox1-meteoriciron-*",
+		"*-woodbox1-molybdochalkos-*",
+		"*-woodbox1-tinbronze-*",
+		"*-woodbox1-steel-*",
+		"*-woodbox1-reed-*",
+		"*-rustbox1-aged-*",
+		"*-rustbox1-oak-*",
+		"*-rustbox1-birch-*",
+		"*-rustbox1-maple-*",
+		"*-rustbox1-pine-*",
+		"*-rustbox1-acacia-*",
+		"*-rustbox1-kapok-*",
+		"*-rustbox1-baldcypress-*",
+		"*-rustbox1-larch-*",
+		"*-rustbox1-redwood-*",
+		"*-rustbox1-ebony-*",
+		"*-rustbox1-walnut-*",
+		"*-rustbox1-purpleheart-*",
+		"*-rustbox1-reed-*",
+		"*-wattlebox1-aged-*",
+		"*-wattlebox1-oak-*",
+		"*-wattlebox1-birch-*",
+		"*-wattlebox1-maple-*",
+		"*-wattlebox1-pine-*",
+		"*-wattlebox1-acacia-*",
+		"*-wattlebox1-kapok-*",
+		"*-wattlebox1-baldcypress-*",
+		"*-wattlebox1-larch-*",
+		"*-wattlebox1-redwood-*",
+		"*-wattlebox1-ebony-*",
+		"*-wattlebox1-walnut-*",
+		"*-wattlebox1-purpleheart-*",
+		"*-wattlebox1-rusty-iron-*",
+		"*-wattlebox1-bismuthbronze-*",
+		"*-wattlebox1-blackbronze-*",
+		"*-wattlebox1-brass-*",
+		"*-wattlebox1-copper-*",
+		"*-wattlebox1-iron-*",
+		"*-wattlebox1-meteoriciron-*",
+		"*-wattlebox1-molybdochalkos-*",
+		"*-wattlebox1-tinbronze-*",
+		"*-wattlebox1-steel-*",
+		"*-metalbox1-rusty-iron-*",
+		"*-metalbox1-brass-*",
+		"*-metalbox1-meteoriciron-*",
+		"*-metalbox1-aged-*",
+		"*-metalbox1-oak-*",
+		"*-metalbox1-birch-*",
+		"*-metalbox1-maple-*",
+		"*-metalbox1-pine-*",
+		"*-metalbox1-acacia-*",
+		"*-metalbox1-kapok-*",
+		"*-metalbox1-baldcypress-*",
+		"*-metalbox1-larch-*",
+		"*-metalbox1-redwood-*",
+		"*-metalbox1-ebony-*",
+		"*-metalbox1-walnut-*",
+		"*-metalbox1-purpleheart-*",
+		"*-metalbox2-reed-*",
+		"*-metalbox2-blackbronze-*",
+		"*-metalbox2-copper-*",
+		"*-metalbox2-bismuthbronze-*",
+		"*-metalbox2-rusty-iron-*",
+		"*-metalbox2-brass-*",
+		"*-metalbox2-meteoriciron-*",
+		"*-metalbox2-molybdochalkos-*",
+		"*-metalbox2-tinbronze-*",
+		"*-metalbox2-steel-*",
+		"*-metalbox2-aged-*",
+		"*-metalbox2-oak-*",
+		"*-metalbox2-birch-*",
+		"*-metalbox2-maple-*",
+		"*-metalbox2-pine-*",
+		"*-metalbox2-acacia-*",
+		"*-metalbox2-kapok-*",
+		"*-metalbox2-baldcypress-*",
+		"*-metalbox2-larch-*",
+		"*-metalbox2-redwood-*",
+		"*-metalbox2-ebony-*",
+		"*-metalbox2-walnut-*",
+		"*-metalbox2-purpleheart-*",
+		"*-metalbox2-reed-*"
+	],
+	"shapeByType": {
+		"*-metalbox2-*-north": { "base": "apeflowerpots:block/misc/windowbox/{type}n/full2" },
+		"*-metalbox2-*-east": { "base": "apeflowerpots:block/misc/windowbox/{type}e/full2" },
+		"*-metalbox2-*-west": { "base": "apeflowerpots:block/misc/windowbox/{type}w/full2" },
+		"*-metalbox2-*-south": { "base": "apeflowerpots:block/misc/windowbox/{type}s/full2" },
+
+		"*-metalbox1-*-north": { "base": "apeflowerpots:block/misc/windowbox/{type}n/full"},
+		"*-metalbox1-*-east": { "base": "apeflowerpots:block/misc/windowbox/{type}e/full"},
+		"*-metalbox1-*-west": { "base": "apeflowerpots:block/misc/windowbox/{type}w/full"},
+		"*-metalbox1-*-south": { "base": "apeflowerpots:block/misc/windowbox/{type}s/full"},
+
+		"*-rustbox1-*-north": { "base": "apeflowerpots:block/misc/windowbox/{type}n/full"},
+		"*-rustbox1-*-east": { "base": "apeflowerpots:block/misc/windowbox/{type}e/full"},
+		"*-rustbox1-*-west": { "base": "apeflowerpots:block/misc/windowbox/{type}w/full"},
+		"*-rustbox1-*-south": { "base": "apeflowerpots:block/misc/windowbox/{type}s/full"},
+
+		"*-wattlebox1-*-north": { "base": "apeflowerpots:block/misc/windowbox/{type}n/full"},
+		"*-wattlebox1-*-east": { "base": "apeflowerpots:block/misc/windowbox/{type}e/full"},
+		"*-wattlebox1-*-west": { "base": "apeflowerpots:block/misc/windowbox/{type}w/full"},
+		"*-wattlebox1-*-south": { "base": "apeflowerpots:block/misc/windowbox/{type}s/full"},
+
+		"*-woodbox1-*-north": { "base": "apeflowerpots:block/misc/windowbox/{type}n/full"},
+		"*-woodbox1-*-east": { "base": "apeflowerpots:block/misc/windowbox/{type}e/full"},
+		"*-woodbox1-*-west": { "base": "apeflowerpots:block/misc/windowbox/{type}w/full"},
+		"*-woodbox1-*-south": { "base": "apeflowerpots:block/misc/windowbox/{type}s/full"}
+	},
+	"texturesByType": {
+		"*-rustbox1-*": { 
+			"rusty-iron": { "base": "game:block/metal/tarnished/{material}" }
+		},
+		"*-metalbox1-*": { 
+			"bituminous": { "base": "game:block/metal/sheet/{material}1" }
+		},
+		"*-woodbox1-*": { 
+			"oak1": { "base": "game:block/wood/planks/{material}1" }
+		}
+	},
+	"attributes": {
+		"reinforcable": true,
+		"humanoidTraversalCost": 2,
+		"handbook": {
+			"groupBy": [ "windowbox" ]
+		},
+		"sitHeight": 0.75,
+		"beeFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"butterflyFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"plantContainerSizeByType": {
+			"*-wattlebox1-*-north": "wattlebox1n",
+			"*-wattlebox1-*-east": "wattlebox1e",
+			"*-wattlebox1-*-west": "wattlebox1w",
+			"*-wattlebox1-*-south": "wattlebox1s",
+			"*-rustbox1-*-north": "rustbox1n",
+			"*-rustbox1-*-east": "rustbox1e",
+			"*-rustbox1-*-west": "rustbox1w",
+			"*-rustbox1-*-south": "rustbox1s",
+			"*-metalbox1-*-north": "metalbox1n",
+			"*-metalbox1-*-east": "metalbox1e",
+			"*-metalbox1-*-west": "metalbox1w",
+			"*-metalbox1-*-south": "metalbox1s",
+			"*-metalbox2-*-north": "metalbox1n",
+			"*-metalbox2-*-east": "metalbox1e",
+			"*-metalbox2-*-west": "metalbox1w",
+			"*-metalbox2-*-south": "metalbox1s",
+			"*-woodbox1-*-north": "woodbox1n",
+			"*-woodbox1-*-east": "woodbox1e",
+			"*-woodbox1-*-west": "woodbox1w",
+			"*-woodbox1-*-south": "woodbox1s",
+			"*": "windowboxnormal"
+		},
+		"filledShapeByType": {
+			"*-metalbox2-*-north": { "base": "apeflowerpots:block/misc/windowbox/{type}n/full2" },
+			"*-metalbox2-*-east": { "base": "apeflowerpots:block/misc/windowbox/{type}e/full2" },
+			"*-metalbox2-*-west": { "base": "apeflowerpots:block/misc/windowbox/{type}w/full2" },
+			"*-metalbox2-*-south": { "base": "apeflowerpots:block/misc/windowbox/{type}s/full2" },
+
+			"*-metalbox1-*-north": { "base": "apeflowerpots:block/misc/windowbox/{type}n/full"},
+			"*-metalbox1-*-east": { "base": "apeflowerpots:block/misc/windowbox/{type}e/full"},
+			"*-metalbox1-*-west": { "base": "apeflowerpots:block/misc/windowbox/{type}w/full"},
+			"*-metalbox1-*-south": { "base": "apeflowerpots:block/misc/windowbox/{type}s/full"},
+
+			"*-rustbox1-*-north": { "base": "apeflowerpots:block/misc/windowbox/{type}n/full"},
+			"*-rustbox1-*-east": { "base": "apeflowerpots:block/misc/windowbox/{type}e/full"},
+			"*-rustbox1-*-west": { "base": "apeflowerpots:block/misc/windowbox/{type}w/full"},
+			"*-rustbox1-*-south": { "base": "apeflowerpots:block/misc/windowbox/{type}s/full"},
+
+			"*-wattlebox1-*-north": { "base": "apeflowerpots:block/misc/windowbox/{type}n/full"},
+			"*-wattlebox1-*-east": { "base": "apeflowerpots:block/misc/windowbox/{type}e/full"},
+			"*-wattlebox1-*-west": { "base": "apeflowerpots:block/misc/windowbox/{type}w/full"},
+			"*-wattlebox1-*-south": { "base": "apeflowerpots:block/misc/windowbox/{type}s/full"},
+
+			"*-woodbox1-*-north": { "base": "apeflowerpots:block/misc/windowbox/{type}n/full"},
+			"*-woodbox1-*-east": { "base": "apeflowerpots:block/misc/windowbox/{type}e/full"},
+			"*-woodbox1-*-west": { "base": "apeflowerpots:block/misc/windowbox/{type}w/full"},
+			"*-woodbox1-*-south": { "base": "apeflowerpots:block/misc/windowbox/{type}s/full"}
+		},
+		"fillHeightByType": {
+			"*-wattlebox1-*": 0.930,
+			"*-metalbox1-*": 0.850,
+			"*-metalbox2-*": 0.850,
+			"*-rustbox1-*": 0.850,
+			"*-woodbox1-*": 0.890,
+			"*": 0.890
+		}
+	},
+	"creativeinventory": { "general": ["*-east"], "decorative": ["*-east"], "apeflowerpots": ["*-east"] },
+	"heldTpIdleAnimation": "holdbothhandslarge", "heldTpUseAnimation": "twohandplaceblock",
+	"blockmaterial": "Wood",
+	"replaceable": 900,
+	"resistance": 1.5,
+	"lightAbsorption": 1,
+	"emitSideAo": { "all": false },	
+	"sidesolid": {
+		"all": false
+	},	
+	"sideopaque": {
+		"all": false
+	},
+	"sounds": {
+		"place": "game:block/planks",
+		"hit": "game:block/planks",
+		"break": "game:block/planks",
+		"walk": "game:walk/wood"
+	},
+	"combustibleProps": {
+		"burnTemperature": 600,
+		"burnDuration": 35
+	},
+	"materialDensity": 400,
+
+	"guiTransformByType": {
+		"*-rustbox1-*": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"origin": { "x": 0.8, "y": 0.69, "z": 0.5 },
+		"scale": 1.7
+		},
+		"*-metalbox1-*": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"origin": { "x": 0.8, "y": 0.8, "z": 0.5 },
+		"scale": 1.57
+		},
+		"*-metalbox2-*": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"origin": { "x": 0.96, "y": 0.8, "z": 0.5 },
+		"scale": 1.8
+		},
+		"*": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"origin": { "x": 0.8, "y": 0.9, "z": 0.5 },
+		"scale": 1.7
+		}
+	},
+	"tpHandTransformByType": {
+		"*-metalbox1-*": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 8, "y": 14, "z": -81 },
+		"origin": { "x": 0.3, "y": 0.2, "z": 0.3 },
+		"scale": 0.62
+		},
+		"*-metalbox2-*": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 5, "y": 16, "z": -76 },
+		"origin": { "x": 0.4, "y": 0.15, "z": 0.25 },
+		"scale": 0.7
+		},
+		"*-rustbox1-*": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 6, "y": 16, "z": -77 },
+		"origin": { "x": 0.2, "y": 0.3, "z": 0.3 },
+		"scale": 0.63
+		},
+		"*-wattlebox1-*": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 7, "y": 7, "z": -74 },
+		"origin": { "x": 0.5, "y": 0, "z": 0.3 },
+		"scale": 0.65
+		},
+		"*-woodbox1-*": {
+		"translation": { "x": 0.6, "y": 0.5, "z": 1.6 },
+		"rotation": { "x": 8, "y": 15, "z": -70 },
+		"origin": { "x": 0.5, "y": -0.5, "z": -0.5 },
+		"scale": 0.72
+		},
+		"*": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": -2, "y": 113, "z": -6 },
+		"origin": { "x": 0.43, "y": -1.29, "z": -0.45 },
+		"scale": 0.65
+		}
+	},
+	"fpHandTransform": {
+		"translation": { "x": 0.08, "y": -0.2, "z": 0.6 },
+		"rotation": { "x": 33, "y": 134, "z": -102 }
+	},
+	"collisionboxByType": {
+		"*-metalbox1-*-north": { "x1": 0, "y1": 0.4985, "z1": 0, "x2": 1, "y2": 1, "z2": 0.4375, "rotateY": 0 },
+		"*-metalbox1-*-east": { "x1": 0, "y1": 0.4985, "z1": 0, "x2": 1, "y2": 1, "z2": 0.4375, "rotateY": 270 },
+		"*-metalbox1-*-west": { "x1": 0, "y1": 0.4985, "z1": 0, "x2": 1, "y2": 1, "z2": 0.4375, "rotateY": 90 },
+		"*-metalbox1-*-south": { "x1": 0, "y1": 0.4985, "z1": 0, "x2": 1, "y2": 1, "z2": 0.4375, "rotateY": 180 },
+
+		"*-metalbox2-*-north": { "x1": 0, "y1": 0.6235, "z1": 0, "x2": 1, "y2": 0.9375, "z2": 0.3125, "rotateY": 0 },
+		"*-metalbox2-*-east": { "x1": 0, "y1": 0.6235, "z1": 0, "x2": 1, "y2": 0.9375, "z2": 0.3125, "rotateY": 270 },
+		"*-metalbox2-*-west": { "x1": 0, "y1": 0.6235, "z1": 0, "x2": 1, "y2": 0.9375, "z2": 0.3125, "rotateY": 90 },
+		"*-metalbox2-*-south": { "x1": 0, "y1": 0.6235, "z1": 0, "x2": 1, "y2": 0.9375, "z2": 0.3125, "rotateY": 180 },
+
+		"*-rustbox1-*-north": { "x1": 0.0756, "y1": 0.5, "z1": 0, "x2": 0.9185, "y2": 0.9637, "z2": 0.3682, "rotateY": 0 },
+		"*-rustbox1-*-east": { "x1": 0.0756, "y1": 0.5, "z1": 0, "x2": 0.9185, "y2": 0.9637, "z2": 0.3682, "rotateY": 270 },
+		"*-rustbox1-*-west": { "x1": 0.0756, "y1": 0.5, "z1": 0, "x2": 0.9185, "y2": 0.9637, "z2": 0.3682, "rotateY": 90 },
+		"*-rustbox1-*-south": { "x1": 0.0756, "y1": 0.5, "z1": 0, "x2": 0.9185, "y2": 0.9637, "z2": 0.3682, "rotateY": 180 },
+
+		"*-north": { "x1": 0.0441, "y1": 0.6875, "z1": 0, "x2": 0.95, "y2": 0.97, "z2": 0.4375, "rotateY": 0 },
+		"*-east": { "x1": 0.0441, "y1": 0.6875, "z1": 0, "x2": 0.95, "y2": 0.97, "z2": 0.4375, "rotateY": 270 },
+		"*-west": { "x1": 0.0441, "y1": 0.6875, "z1": 0, "x2": 0.95, "y2": 0.97, "z2": 0.4375, "rotateY": 90 },
+		"*-south": { "x1": 0.0441, "y1": 0.6875, "z1": 0, "x2": 0.95, "y2": 0.97, "z2": 0.4375, "rotateY": 180 }
+	},
+	"selectionboxByType": {
+		"*-metalbox1-*-north": { "x1": 0, "y1": 0.4985, "z1": 0, "x2": 1, "y2": 1, "z2": 0.4375, "rotateY": 0 },
+		"*-metalbox1-*-east": { "x1": 0, "y1": 0.4985, "z1": 0, "x2": 1, "y2": 1, "z2": 0.4375, "rotateY": 270 },
+		"*-metalbox1-*-west": { "x1": 0, "y1": 0.4985, "z1": 0, "x2": 1, "y2": 1, "z2": 0.4375, "rotateY": 90 },
+		"*-metalbox1-*-south": { "x1": 0, "y1": 0.4985, "z1": 0, "x2": 1, "y2": 1, "z2": 0.4375, "rotateY": 180 },
+
+		"*-metalbox2-*-north": { "x1": 0, "y1": 0.6235, "z1": 0, "x2": 1, "y2": 0.9375, "z2": 0.3125, "rotateY": 0 },
+		"*-metalbox2-*-east": { "x1": 0, "y1": 0.6235, "z1": 0, "x2": 1, "y2": 0.9375, "z2": 0.3125, "rotateY": 270 },
+		"*-metalbox2-*-west": { "x1": 0, "y1": 0.6235, "z1": 0, "x2": 1, "y2": 0.9375, "z2": 0.3125, "rotateY": 90 },
+		"*-metalbox2-*-south": { "x1": 0, "y1": 0.6235, "z1": 0, "x2": 1, "y2": 0.9375, "z2": 0.3125, "rotateY": 180 },
+
+		"*-rustbox1-*-north": { "x1": 0.0756, "y1": 0.5, "z1": 0, "x2": 0.9185, "y2": 0.9637, "z2": 0.3682, "rotateY": 0 },
+		"*-rustbox1-*-east": { "x1": 0.0756, "y1": 0.5, "z1": 0, "x2": 0.9185, "y2": 0.9637, "z2": 0.3682, "rotateY": 270 },
+		"*-rustbox1-*-west": { "x1": 0.0756, "y1": 0.5, "z1": 0, "x2": 0.9185, "y2": 0.9637, "z2": 0.3682, "rotateY": 90 },
+		"*-rustbox1-*-south": { "x1": 0.0756, "y1": 0.5, "z1": 0, "x2": 0.9185, "y2": 0.9637, "z2": 0.3682, "rotateY": 180 },
+
+		"*-north": { "x1": 0.0441, "y1": 0.6875, "z1": 0, "x2": 0.95, "y2": 0.97, "z2": 0.4375, "rotateY": 0 },
+		"*-east": { "x1": 0.0441, "y1": 0.6875, "z1": 0, "x2": 0.95, "y2": 0.97, "z2": 0.4375, "rotateY": 270 },
+		"*-west": { "x1": 0.0441, "y1": 0.6875, "z1": 0, "x2": 0.95, "y2": 0.97, "z2": 0.4375, "rotateY": 90 },
+		"*-south": { "x1": 0.0441, "y1": 0.6875, "z1": 0, "x2": 0.95, "y2": 0.97, "z2": 0.4375, "rotateY": 180 }
+	}
+}

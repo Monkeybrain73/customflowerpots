@@ -1,0 +1,66 @@
+{
+	"code": "burnedwindowclayplanter",
+	"storageFlags": 1,
+	"maxStackSize": 8,
+	"behaviors": [
+		{ "name": "CF.BBName",
+			"properties": { "parts": ["apeflowerpots:firedclayplanter", " ", "apeflowerpots:claycolor-{material}"] }
+		},
+		{ "name": "GroundStorable",
+			"properties": {
+			"layout": "Stacking",
+			"placeRemoveSound": "game:sounds/block/ceramicplace",
+			"stackingModel": "apeflowerpots:block/misc/windowbox/claybox1n/planterstack",
+			"modelItemsToStackSizeRatio": 67,
+			"stackingCapacity": 6,
+			"transferQuantity": 1,
+			"bulkTransferQuantity": 1,
+			"collisionBox": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.33, "z2": 1 },
+			"cbScaleYByLayer": 0.5,
+			"maxFireable": 6
+			}
+		},
+		{ "name": "Unplaceable" },
+		{ "name": "RightClickPickup"}
+	],
+	"variantgroups": [
+		{ "code": "material", "states": ["tan", "orange", "red", "brown", "cream", "gray", "black", "fire"] }
+	],
+	"drawtype": "json",
+	"shape": { "base": "apeflowerpots:block/misc/windowbox/claybox1n/empty" },
+	"textures": { 
+		"ceramic": {  "base": "game:block/clay/hardened/{material}" },
+		"design": { "base": "game:block/clay/hardened/{material}" }
+	},
+	"attributes": {
+		"handbook": { "groupBy": ["burnedwindowclayplanter-*"] },
+		"tempGlowMode": 1,
+		"onTongTransform": {
+			"translation": { "x": -0.7, "y": -1.2, "z": -0.73 },
+			"rotation": { "x": 39, "y": -14, "z": 0 },
+			"scale": 0.8
+		}
+	},
+	"creativeinventory": { "general": ["*"], "decorative": ["*"], "apeflowerpots": ["*"] },
+	"heldTpIdleAnimation": "holdbothhandslarge", "heldTpUseAnimation": "twohandplaceblock",
+	"blockmaterial": "Ceramic",
+	"replaceable": 900,
+	"resistance": 1.5,
+	"lightAbsorption": 1,
+	"sounds": {
+		"walk": "game:walk/stone",
+		"break": "game:block/ceramicplace",
+		"hit": "game:block/ceramichit",
+		"place": "game:block/ceramicplace"
+	},
+	"guiTransform": {
+		"origin": { "x": 0.5, "y": 0.2, "z": 0.5 },
+		"scale": 1.73
+	},
+	"tpHandTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 93, "y": -25, "z": -72 },
+		"origin": { "x": 0.13, "y": -0.08, "z": 0.45 },
+		"scale": 0.68
+	}
+}

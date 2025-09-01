@@ -1,0 +1,352 @@
+[
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/mushroom.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"anvilContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"cratenormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"crateruined1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"cratesmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"cratesmallstackedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"cratemediumContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"crateagedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"troughlargeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"metalbarrel1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"metalbarrel2Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"metaltank1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"barrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"sodplanterNContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.65,"z": 0.45 },"rotation": { "x": 45, "y": 0, "z": 0 }},
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"sodplanterWContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.45, "y": 0.65,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": -45 }},
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"sodplanterSContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.65,"z": -0.45 },"rotation": { "x": -45, "y": 0, "z": 0 }},
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"sodplanterEContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.45, "y": 0.65,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 45 }},
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/planter/normal*" }
+			},
+			"bucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"ruinedbucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"crockContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"cookpotdirtyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"cookpotContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"crucibleContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"ingotmoldContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"wateringcanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"woodenpanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"backpacknormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"handbasketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"basketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"troughsmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"vesselContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"alchemistContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"blackguardContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"commonerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"forlornContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"reindeerherderContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"steppeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"highleatherContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"hunterContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"jailorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"kingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"kneehighContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"lackeyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"malefactorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"metalcapContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"minerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"minstrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"nomadContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"princeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"rottenkingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"rotwalkerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"squireContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"survivorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"temptressContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"woolContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"messengerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"chutesectionContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"chuteelbowContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"chutetContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"woodbox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.93,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"woodbox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.28, "y": 0.93,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"woodbox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.28, "y": 0.93,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"woodbox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.93,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"wattlebox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 1.03,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"wattlebox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.28, "y": 1.03,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"wattlebox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.28, "y": 1.03,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"wattlebox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 1.03,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"rustbox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.92,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"rustbox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.28, "y": 0.92,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"rustbox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.28, "y": 0.92,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"rustbox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.92,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"metalbox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 1.03,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"metalbox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.28, "y": 1.03,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"metalbox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.28, "y": 1.03,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"metalbox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 1.03,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"claybox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.87,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"claybox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.28, "y": 0.87,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"claybox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.28, "y": 0.87,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"claybox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.87,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"clayboxgContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.24,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			}
+		},
+		"side": "server"
+	}
+]

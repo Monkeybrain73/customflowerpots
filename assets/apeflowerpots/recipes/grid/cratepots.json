@@ -1,0 +1,418 @@
+[
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-aged"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+	},
+	{
+		"ingredientPattern": "C",
+		"ingredients": {
+			"C": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-aged"} }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-birch"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-birch" }
+	},
+	{
+		"ingredientPattern": "C",
+		"ingredients": {
+			"C": { "type": "block", "code": "apeflowerpots:cratepot-birch" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-birch"} }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-oak"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-oak" }
+	},
+	{
+		"ingredientPattern": "C",
+		"ingredients": {
+			"C": { "type": "block", "code": "apeflowerpots:cratepot-oak" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-oak"} }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-maple"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-maple" }
+	},
+	{
+		"ingredientPattern": "C",
+		"ingredients": {
+			"C": { "type": "block", "code": "apeflowerpots:cratepot-maple" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-maple"} }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-pine"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-pine" }
+	},
+	{
+		"ingredientPattern": "C",
+		"ingredients": {
+			"C": { "type": "block", "code": "apeflowerpots:cratepot-pine" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-pine"} }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-kapok"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-kapok" }
+	},
+	{
+		"ingredientPattern": "C",
+		"ingredients": {
+			"C": { "type": "block", "code": "apeflowerpots:cratepot-kapok" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-kapok"} }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-acacia"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-acacia" }
+	},
+	{
+		"ingredientPattern": "C",
+		"ingredients": {
+			"C": { "type": "block", "code": "apeflowerpots:cratepot-acacia" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-acacia"} }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-baldcypress"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-baldcypress" }
+	},
+	{
+		"ingredientPattern": "C",
+		"ingredients": {
+			"C": { "type": "block", "code": "apeflowerpots:cratepot-baldcypress" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-baldcypress"} }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-larch"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-larch" }
+	},
+	{
+		"ingredientPattern": "C",
+		"ingredients": {
+			"C": { "type": "block", "code": "apeflowerpots:cratepot-larch" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-larch"} }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-redwood"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-redwood" }
+	},
+	{
+		"ingredientPattern": "C",
+		"ingredients": {
+			"C": { "type": "block", "code": "apeflowerpots:cratepot-redwood" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-redwood"} }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-walnut"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-walnut" }
+	},
+	{
+		"ingredientPattern": "C",
+		"ingredients": {
+			"C": { "type": "block", "code": "apeflowerpots:cratepot-walnut" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-walnut"} }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-purpleheart"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-purpleheart" }
+	},
+	{
+		"ingredientPattern": "C",
+		"ingredients": {
+			"C": { "type": "block", "code": "apeflowerpots:cratepot-purpleheart" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-purpleheart"} }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-ebony"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-ebony" }
+	},
+	{
+		"ingredientPattern": "C",
+		"ingredients": {
+			"C": { "type": "block", "code": "apeflowerpots:cratepot-ebony" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crate", "attributes": { "lidState": "closed" ,"type": "wood-ebony"} }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "opened" ,"type": "wood-aged"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "opened" ,"type": "wood-birch"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-birch" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "opened" ,"type": "wood-oak"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-oak" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "opened" ,"type": "wood-maple"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-maple" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "opened" ,"type": "wood-pine"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-pine" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "opened" ,"type": "wood-kapok"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-kapok" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "opened" ,"type": "wood-acacia"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-acacia" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "opened" ,"type": "wood-baldcypress"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-baldcypress" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "opened" ,"type": "wood-larch"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-larch" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "opened" ,"type": "wood-redwood"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-redwood" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "opened" ,"type": "wood-walnut"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-walnut" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "opened" ,"type": "wood-purpleheart"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-purpleheart" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:crate", "attributes": { "lidState": "opened" ,"type": "wood-ebony"} },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-ebony" }
+	}
+]

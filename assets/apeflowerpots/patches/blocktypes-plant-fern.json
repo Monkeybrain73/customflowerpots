@@ -1,0 +1,255 @@
+[
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/fern.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"anvilContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/planter/var*" }
+			},
+			"cratenormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/planter/var*" }
+			},
+			"crateruined1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/planter/var*" }
+			},
+			"cratesmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/planter/var*" }
+			},
+			"cratesmallstackedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/planter/var*" }
+			},
+			"cratemediumContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/planter/var*" }
+			},
+			"crateagedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/planter/var*" }
+			},
+			"troughlargeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/planter/var*" }
+			},
+			"metalbarrel1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/planter/var*" }
+			},
+			"metalbarrel2Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/planter/var*" }
+			},
+			"metaltank1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/planter/var*" }
+			},
+			"barrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/planter/var*" }
+			},
+			"sodplanterNContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/fern/{type}/roofn/var*" }
+			},
+			"sodplanterWContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/fern/{type}/roofw/var*" }
+			},
+			"sodplanterSContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/fern/{type}/roofs/var*" }
+			},
+			"sodplanterEContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/fern/{type}/roofe/var*" }
+			},
+			"bucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"ruinedbucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"crockContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"cookpotdirtyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"cookpotContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"wateringcanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"woodenpanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"backpacknormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"handbasketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"basketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"troughsmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"vesselContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"alchemistContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"blackguardContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"commonerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"forlornContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"reindeerherderContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"steppeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"highleatherContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"hunterContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"jailorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"kingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"kneehighContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"lackeyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"malefactorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"metalcapContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"minerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"minstrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"nomadContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"princeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"rottenkingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"rotwalkerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"squireContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"survivorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"temptressContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"woolContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"messengerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"chutesectionContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"chuteelbowContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"chutetContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"clayboxgContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"claybox1nContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"claybox1eContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"claybox1wContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"claybox1sContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			}
+		},
+		"side": "server"
+	}
+]

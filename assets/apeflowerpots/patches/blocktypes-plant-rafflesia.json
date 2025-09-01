@@ -1,0 +1,262 @@
+[
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/rafflesia.json",
+		"path": "/attributes",
+		"value": {
+			"plantContainable": {
+				"anvilContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"cratenormalContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"crateruined1Container": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"cratesmallContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"cratesmallstackedContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"cratemediumContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"crateagedContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"troughlargeContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"metalbarrel1Container": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"metalbarrel2Container": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"metaltank1Container": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"barrelContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"sodplanterNContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"sodplanterWContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"sodplanterSContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"sodplanterEContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"bucketContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"ruinedbucketContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"crockContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"cookpotdirtyContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"cookpotContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"wateringcanContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"woodenpanContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"backpacknormalContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"handbasketContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"basketContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"troughsmallContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"vesselContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"alchemistContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"blackguardContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"commonerContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"forlornContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"reindeerherderContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"steppeContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"highleatherContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"hunterContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"jailorContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"kingContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"kneehighContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"lackeyContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"malefactorContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"metalcapContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"minerContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"minstrelContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"nomadContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"princeContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"rottenkingContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"rotwalkerContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"squireContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"survivorContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"temptressContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"woolContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"messengerContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"chutesectionContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"chuteelbowContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"chutetContainer": {
+					"randomRotate": false,
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"clayboxgContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.24,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.9 },
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"claybox1nContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.24,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.9 },
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"claybox1eContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.24,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.9 },
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"claybox1wContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.24,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.9 },
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"claybox1sContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.24,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.9 },
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				}
+			}
+		},
+		"side": "server"
+	}
+]

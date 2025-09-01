@@ -1,0 +1,141 @@
+{
+	"code": "miscflowerpots",
+	"class": "BlockPlantContainer",
+	"entityClass": "PlantContainer",
+	"behaviors": [
+		{ "name": "CF.BBName",
+			"properties": { "parts": ["apeflowerpots:{type}", " ", "apeflowerpots:claycolor-{color}"] }
+		},
+		{ "name": "UnstableFalling" } 
+	],
+	"variantgroups": [
+		{ "code": "color", "states": ["blue", "fire", "black", "brown", "cream", "gray", "orange", "red", "tan", ] },
+		{ "code": "materialtype", "states": ["fired"] },
+		{ "code": "type", "states": ["crock", "cookpot", "cookpotdirty", "crucible", "ingotmold", "wateringcan"] }
+	],
+	"shapeByType": {
+		"*-wateringcan": { "base": "apeflowerpots:block/clay/wateringcan/full" },
+		"*-crock": { "base": "apeflowerpots:block/clay/crock/full" },
+		"*-cookpot": { "base": "apeflowerpots:block/clay/cookpot/full" },
+		"*-cookpotdirty": { "base": "apeflowerpots:block/clay/cookpotdirty/full" },
+		"*-crucible": { "base": "apeflowerpots:block/clay/crucible/full" },
+		"*-ingotmold": { "base": "apeflowerpots:block/clay/ingotmold/full" },
+	},
+	"texturesByType": {
+		"*-wateringcan": { "material": { "base": "game:block/clay/hardened/{color}" }},
+		"*-crock": {
+			"ceramic": { "base": "game:block/clay/hardened/{color}" },
+			"label": { "base": "apeflowerpots:block/clay/crock/label8", "alternates": [{ "base": "apeflowerpots:block/clay/crock/label*" } ] }
+		},
+		"*-cookpot": { "ceramic": { "base": "game:block/clay/hardened/{color}" }},
+		"*-cookpotdirty": {	"ceramic": { "base": "game:block/clay/pot/{color}", "overlays": [ "game:block/clay/pot/dirty" ] }},
+		"*-crucible": { "ceramic": { "base": "game:block/clay/hardened/{color}" }},
+		"*-ingotmold": { "other": { "base": "game:block/clay/hardened/{color}" }}
+	},
+	"attributes": {
+		"sitHeight": 0.75,
+		"beeFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"butterflyFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"plantContainerSizeByType": {
+			"*-wateringcan": "wateringcan",
+			"*-crock": "crock",
+			"*-cookpot": "cookpot",
+			"*-cookpotdirty": "cookpotdirty",
+			"*-crucible": "crucible",
+			"*-ingotmold": "ingotmold"
+		},
+		"filledShapeByType": {
+			"*-ingotmold": { "base": "apeflowerpots:block/clay/{type}/full" },
+			"*-crucible": { "base": "apeflowerpots:block/clay/{type}/full" },
+			"*-cookpot": { "base": "apeflowerpots:block/clay/{type}/full" },
+			"*-wateringcan": { "base": "apeflowerpots:block/clay/{type}/full" },
+			"*-crock": { "base": "apeflowerpots:block/clay/{type}/full" },
+			"*": { "base": "apeflowerpots:block/misc/{type}/full" }
+		},
+		"fillHeightByType":{
+			"*-wateringcan": 0.580,
+			"*-crock": 0.210,
+			"*-cookpot": 0.270,
+			"*-cookpotdirty": 0.270,
+			"*-crucible": 0.370,
+			"*-ingotmold": 0.140
+		}
+	},
+	"creativeinventory": { "general": ["*"], "decorative": ["*"], "apeflowerpots": ["*"] },
+	"heldTpIdleAnimationByType": { 
+		"*-wateringcan": "holdbothhands",
+		"*-crock": "holdbothhands",
+		"*-cookpot": "holdbothhands",
+		"*-cookpotdirty": "holdbothhands",
+		"*-crucible": "holdbothhands",
+		"*-ingotmold": "holdbothhands",
+		"*": "holdunderarm"
+	},
+	"heldTpUseAnimation": "twohandplaceblock",
+	"blockmaterialByType": {
+		"*": "Ceramic"
+	},
+	"doNotRenderAtLod2": true,
+	"replaceable": 900,
+	"resistance": 1.5,
+	"lightAbsorption": 1,
+	"maxStackSize": 8,
+	"sidesolid": {
+		"all": false
+	},	
+	"sideopaque": {
+		"all": false
+	},
+	"emitsideao": {
+		"all": false
+	},
+	"sounds": {
+		"walk": "game:walk/wood",
+		"break": "game:block/ceramicplace",
+		"hit": "game:block/ceramichit",
+		"place": "game:block/ceramicplace"
+	},
+	"collisionboxByType": {
+		"*-wateringcan": { "x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.5625, "z2": 0.875 },
+		"*-crock": { "x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.5625, "z2": 0.875 },
+		"*-cookpot": { "x1": 0.2815, "y1": 0, "z1": 0.2752, "x2": 0.7248, "y2": 0.375, "z2": 0.7248 },
+		"*-cookpotdirty": { "x1": 0.2815, "y1": 0, "z1": 0.2752, "x2": 0.7248, "y2": 0.375, "z2": 0.7248 },
+		"*-crucible": { "x1": 0.2815, "y1": 0, "z1": 0.2752, "x2": 0.7248, "y2": 0.375, "z2": 0.7248 },
+		"*-ingotmold": { "x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.2625, "z2": 0.875 },
+		"*": { "x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.5625, "z2": 0.875 }
+	},
+	"selectionboxByType": {
+		"*-wateringcan": { "x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.5625, "z2": 0.875 },
+		"*-crock": { "x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.5625, "z2": 0.875 },
+		"*-cookpot": { "x1": 0.2815, "y1": 0, "z1": 0.2752, "x2": 0.7248, "y2": 0.375, "z2": 0.7248 },
+		"*-cookpotdirty": { "x1": 0.2815, "y1": 0, "z1": 0.2752, "x2": 0.7248, "y2": 0.375, "z2": 0.7248 },
+		"*-crucible": { "x1": 0.2815, "y1": 0, "z1": 0.2752, "x2": 0.7248, "y2": 0.375, "z2": 0.7248 },
+		"*-ingotmold": { "x1": 0.2815, "y1": 0, "z1": 0.2752, "x2": 0.7248, "y2": 0.275, "z2": 0.7248 },
+		"*": { "x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.5625, "z2": 0.875 }
+	},
+	"guiTransformByType": {
+		"*-wateringcan": { "origin": { "x": 0.5, "y": 0.35, "z": 0.5 }, "scale": 1.87	},
+		"*-crock": { "origin": { "x": 0.5, "y": 0.35, "z": 0.5 }, "scale": 1.95	},
+		"*-cookpot": { "origin": { "x": 0.5, "y": 0.35, "z": 0.5 }, "scale": 1.90	},
+		"*-cookpotdirty": { "origin": { "x": 0.5, "y": 0.35, "z": 0.5 }, "scale": 1.90	},
+		"*-crucible": { "origin": { "x": 0.5, "y": 0.35, "z": 0.5 }, "scale": 1.90	},
+		"*-ingotmold": { "origin": { "x": 0.5, "y": 0.35, "z": 0.5 }, "scale": 2.10	},
+		"*": { "rotation": {"x": -20, "y": 21, "z": 180 }, "origin": { "x": 0.5, "y": 0.35, "z": 0.5 }, "scale": 1.50, "rotate": true }
+	},
+	"tpHandTransformByType": { 
+		"*-wateringcan": { "translation": { "x": -1.6, "y": -1, "z": -1.1 }, "rotation": { "x": 24, "y": 21, "z": -73 }, "origin": { "x": 0.5, "y": 0.5, "z": 0.6 }, "scale": 0.50 },
+		"*-crock": { "translation": { "x": -1.6, "y": -1, "z": -1.1 }, "rotation": { "x": 24, "y": 21, "z": -73 }, "origin": { "x": 0.5, "y": 0.5, "z": 0.6 }, "scale": 0.52 },
+		"*-cookpot": { "translation": { "x": -1.6, "y": -1, "z": -1.1 }, "rotation": { "x": 24, "y": 21, "z": -73 }, "origin": { "x": 0.5, "y": 0.5, "z": 0.6 }, "scale": 0.51 },
+		"*-cookpotdirty": { "translation": { "x": -1.6, "y": -1, "z": -1.1 }, "rotation": { "x": 24, "y": 21, "z": -73 }, "origin": { "x": 0.5, "y": 0.5, "z": 0.6 }, "scale": 0.51 },
+		"*-crucible": { "translation": { "x": -1.6, "y": -1, "z": -1.1 }, "rotation": { "x": 24, "y": 21, "z": -73 }, "origin": { "x": 0.5, "y": 0.5, "z": 0.6 }, "scale": 0.51 },
+		"*-ingotmold": { "translation": { "x": -1.6, "y": -1, "z": -1.1 }, "rotation": { "x": 24, "y": 21, "z": -73 }, "origin": { "x": 0.5, "y": 0.5, "z": 0.6 }, "scale": 0.51 },
+		"*": { "translation": { "x": -1.1, "y": -0.5, "z": -1 }, "rotation": { "x": 0, "y": -86, "z": -84 }, "origin": { "x": 0.5, "y": 0.5, "z": 0.6 }, "scale": 0.47 }
+	}
+
+}

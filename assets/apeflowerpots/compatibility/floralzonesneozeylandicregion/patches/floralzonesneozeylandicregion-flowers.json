@@ -1,0 +1,435 @@
+[
+{
+	"enabled": true,
+	"op": "addmerge",
+	"path": "/attributes/plantContainable",
+	"value": {
+			"anvilContainerByType": {
+				"*-aciphyllaaurea-*": {"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"cratenormalContainerByType": {
+				"*-aciphyllaaurea-*": {"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"crateruined1ContainerByType": {
+				"*-aciphyllaaurea-*": {"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"cratesmallContainerByType": {
+				"*-aciphyllaaurea-*": {"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"cratesmallstackedContainerByType": {
+				"*-aciphyllaaurea-*": {"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"cratemediumContainerByType": {
+				"*-aciphyllaaurea-*": {"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"crateagedContainerByType": {
+				"*-aciphyllaaurea-*": {"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"troughlargeContainerByType": {
+				"*-aciphyllaaurea-*": {"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"metalbarrel1ContainerByType": {
+				"*-aciphyllaaurea-*": {"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"metalbarrel2ContainerByType": {
+				"*-aciphyllaaurea-*": {"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"metaltank1ContainerByType": {
+				"*-aciphyllaaurea-*": {"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"barrelContainerByType": {
+				"*-aciphyllaaurea-*": {"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"sodplanterNContainerByType": {
+				"*-aciphyllaaurea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"sodplanterWContainerByType": {
+				"*-aciphyllaaurea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"sodplanterSContainerByType": {
+				"*-aciphyllaaurea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"sodplanterEContainerByType": {
+				"*-aciphyllaaurea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/aciphyllaaurea2"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}3" },"stem": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-bulbinellarossii-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/bulbinellarossii1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-celmisiaangustifolia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/celmisiaangustifolia2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-dietesrobinsoniana-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/dietesrobinsoniana1"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-droserabinata-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/droserabinata2"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-myosotidiumhortensia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/myosotidiumhortensia5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}1" },"leaves2": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumcriniferum-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/pleurophyllumcriniferum1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pleurophyllumspeciosum-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/pleurophyllumspeciosum3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-ranunculuslyallii-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/ranunculuslyallii4"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}		,
+				"*-sophoraprostrata-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/sophoraprostrata3"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"leaves2": { "base": "block/plant/flower/leaves/{type}1" },"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},
+				"*-veronicaepacridea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/veronicaepacridea1"},"textures": {"leavesside": { "base": "block/plant/flower/leaves/{type}1" },"leavestop": { "base": "block/plant/flower/leaves/{type}2" }}}									
+			},
+			"bucketContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"ruinedbucketContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"crockContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"cookpotdirtyContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"cookpotContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"crucibleContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"ingotmoldContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"wateringcanContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"woodenpanContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"backpacknormalContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"handbasketContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"basketContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"troughsmallContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"vesselContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"alchemistContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"blackguardContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"commonerContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"forlornContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"reindeerherderContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"steppeContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"highleatherContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"hunterContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"jailorContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"kingContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"kneehighContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"lackeyContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"malefactorContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"metalcapContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"minerContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"minstrelContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"nomadContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"princeContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"rottenkingContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"rotwalkerContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"squireContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"survivorContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"temptressContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"woolContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"messengerContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"chutesectionContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"chuteelbowContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"chutetContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"clayboxgContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			}
+	},
+	"file": "floralzonesneozeylandicregion:blocktypes/plant/flower.json",
+	"side": "server",
+    "dependsOn": [{ "modid": "floralzonesneozeylandicregion" }]
+}
+]

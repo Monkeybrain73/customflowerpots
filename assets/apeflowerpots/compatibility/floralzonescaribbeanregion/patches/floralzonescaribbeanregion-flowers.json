@@ -1,0 +1,516 @@
+[
+{
+	"enabled": true,
+	"op": "addmerge",
+	"path": "/attributes/plantContainable",
+	"value": {
+			"anvilContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"cratenormalContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"crateruined1ContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"cratesmallContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"cratesmallstackedContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"cratemediumContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"crateagedContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"troughlargeContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"metalbarrel1ContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"metalbarrel2ContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"metaltank1ContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"barrelContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"sodplanterNContainerByType": {
+				"*-agavechiapensis-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"sodplanterWContainerByType": {
+				"*-agavechiapensis-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"sodplanterSContainerByType": {
+				"*-agavechiapensis-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"sodplanterEContainerByType": {
+				"*-agavechiapensis-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/agavechiapensis_var0"},"textures": {"agavechiapensis-stem": { "base": "block/plant/flower/petal/agavechiapensis-flower" },"agavechiapensis-center": { "base": "block/plant/flower/petal/agavechiapensis-center" },"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-heliconiacaribaea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/heliconiacaribaea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiacaribaea*" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-heliconiarostrata-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/heliconiarostrata_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/heliconiarostrata-flower" },"leaf": { "base": "block/plant/flower/petal/heliconiarostrata-leaf" }}},
+				"*-justiciaspicigera-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}2" },"north2": { "base": "block/plant/flower/petal/{type}" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"bucketContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"ruinedbucketContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"crockContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"cookpotdirtyContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"cookpotContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"crucibleContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"ingotmoldContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"wateringcanContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"woodenpanContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"backpacknormalContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"handbasketContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"basketContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"troughsmallContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"vesselContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"alchemistContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"blackguardContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"commonerContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"forlornContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"reindeerherderContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"steppeContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"highleatherContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"hunterContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"jailorContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"kingContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"kneehighContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"lackeyContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"malefactorContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"metalcapContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"minerContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"minstrelContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"nomadContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"princeContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"rottenkingContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"rotwalkerContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"squireContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"survivorContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"temptressContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"woolContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"messengerContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"chutesectionContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"chuteelbowContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"chutetContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"clayboxgContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			}
+	},
+	"file": "floralzonescaribbeanregion:blocktypes/plant/flower.json",
+	"side": "server",
+    "dependsOn": [{ "modid": "floralzonescaribbeanregion" }]
+}
+]

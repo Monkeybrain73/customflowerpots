@@ -1,0 +1,101 @@
+[
+{
+	"enabled": true,
+	"op": "addmerge",
+	"path": "/attributes/plantContainable",
+	"value": {
+			"anvilContainer": {
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"barrelContainer": {
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"vesselContainer": {
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"cratenormalContainer": {
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"crateagedContainer": {
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"crateruined1Container": {
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"metaltank1Container": {
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"metalbarrel1Container": {
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"metalbarrel2Container": {
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"sodplanterNContainer": {
+				"Transform":{ "translation": { "x": 0, "y": 0.850, "z": 0 } },
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"sodplanterWContainer": {
+				"Transform":{ "translation": { "x": 0, "y": 0.850, "z": 0 } },
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"sodplanterSContainer": {
+				"Transform":{ "translation": { "x": 0, "y": 0.850, "z": 0 } },
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"sodplanterEContainer": {
+				"Transform":{ "translation": { "x": 0, "y": 0.850, "z": 0 } },
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"chutesectionContainer": {
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"chuteelbowContainer": {
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"chutetContainer": {
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"clayboxgContainer": {
+				"shapeByType": {
+					"*": { "base":  "floralzonesmediterraneanregion:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			}
+	},
+	"file": "floralzonesmediterraneanregion:blocktypes/plant/plaintreesapling.json",
+	"side": "server",
+    "dependsOn": [{ "modid": "floralzonesmediterraneanregion" }]
+}
+]

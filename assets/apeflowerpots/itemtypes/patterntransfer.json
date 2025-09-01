@@ -1,0 +1,46 @@
+{
+	"code": "patterntransfer",
+	"maxstacksize": 32,
+	"storageFlags": 1,
+	"behaviors": [
+		{ "name": "GroundStorable", "properties": { "layout": "Quadrants", "collisionBox": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.125, "z2": 1 } } }
+	],
+	"attributes": {
+		"handbook": { "groupBy": [ "patterntransfer-*" ] },
+	},
+	"variantgroups": [
+		{ "code": "type", "states": ["chthonic", "amber", "ashforest", "copper", "earthern", "loam", "ochre", "rime", "seasalt", "tenmoku", "undergrowth"] }
+	],
+	"creativeinventory": { "general": ["*"], "items": ["*"], "apeflowerpots": ["*"] },
+	"drawtype": "json",
+	"shape": { "base": "apeflowerpots:item/pattern-paper" },
+	"texturesByType": {
+		"*-chthonic": { "pattern": { "base": "game:block/clay/vessel/sides/{type}" }, "labelbase": { "base": "game:block/wood/crate/label-empty" } },
+		"*": { "pattern": { "base": "game:block/clay/planter/{type}" }, "labelbase": { "base": "game:block/wood/crate/label-empty" } }
+	},
+	"materialDensity": 210,
+	"fpHandTransform": {
+		"translation": { "x": 0.15, "y": -0.5, "z": 0 },
+		"rotation": { "x": -25, "y": -17, "z": -16 },
+		"origin": { "x": 0.5, "y": 0.5, "z": 0.1 },
+		"scale": 2.55
+	},
+	"tpHandTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 5, "y": 180, "z": 1 },
+		"origin": { "x": -0.8, "y": -1.47, "z": -0.39 },
+		"scale": 0.65
+	},
+	"groundTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 1, "y": -3, "z": 2 },
+		"origin": { "x": 0.5, "y": 0.01, "z": 0.5 },
+		"scale": 4.03
+	},
+	"guiTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 42, "y": 34, "z": -33 },
+		"origin": { "x": 0.53, "y": 0.55, "z": 0 },
+		"scale": 2.45
+	}
+}

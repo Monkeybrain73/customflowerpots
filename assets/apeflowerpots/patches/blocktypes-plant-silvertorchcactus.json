@@ -1,0 +1,206 @@
+[
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/silvertorchcactus.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"anvilContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.50,"z": 0.0 }, "scale": 0.8 },
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"cratenormalContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"crateruined1Container": {
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"cratesmallContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"cratesmallstackedContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"cratemediumContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"crateagedContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"troughlargeContainer": {
+				"Transform": { "translation": { "x": 0.0, "y": 0.40,"z": 0.0 }, "scale": 0.85 },
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"metalbarrel1Container": {
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"metalbarrel2Container": {
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"metaltank1Container": {
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"barrelContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"sodplanterNContainer": {
+				"Transform": { "translation": { "x": 0.0, "y": 0.65,"z": 0.45 } },
+				"randomRotate": true,
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"sodplanterWContainer": {
+				"Transform": { "translation": { "x": 0.45, "y": 0.65,"z": 0.0 } },
+				"randomRotate": true,
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"sodplanterSContainer": {
+				"Transform": { "translation": { "x": 0.0, "y": 0.65,"z": -0.45 } },
+				"randomRotate": true,
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"sodplanterEContainer": {
+				"Transform": { "translation": { "x": -0.45, "y": 0.65,"z": 0.0 } },
+				"randomRotate": true,
+				"shape": { "base": "block/plant/silvertorchcactus/planter/normal*" }
+			},
+			"bucketContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"ruinedbucketContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"crockContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"cookpotdirtyContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"cookpotContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"wateringcanContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"woodenpanContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"backpacknormalContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"handbasketContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"basketContainer": {
+				"Transform": { "translation": { "x": 0.0, "y": 0.40,"z": 0.0 }, "scale": 1.35 },
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"troughsmallContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"vesselContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"alchemistContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"blackguardContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"commonerContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"forlornContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"reindeerherderContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"steppeContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"highleatherContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"hunterContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"jailorContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"kingContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"kneehighContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"lackeyContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"malefactorContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"metalcapContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"minerContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"minstrelContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"nomadContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"princeContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"rottenkingContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"rotwalkerContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"squireContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"survivorContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"temptressContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"woolContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"messengerContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"chutesectionContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"chuteelbowContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"chutetContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"clayboxgContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"claybox1nContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"claybox1eContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"claybox1wContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"claybox1sContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			}
+		},
+		"side": "server"
+	}
+]

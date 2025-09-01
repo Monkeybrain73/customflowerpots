@@ -1,0 +1,269 @@
+[
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/barrelcactus.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"anvilContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"cratenormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"crateruined1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"cratesmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"cratesmallstackedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"cratemediumContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"crateagedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"troughlargeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"metalbarrel1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"metalbarrel2Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"metaltank1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"barrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"sodplanterNContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.65,"z": 0.45 },"rotation": { "x": 45, "y": 0, "z": 0 }, "scale": 1.05 },
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"sodplanterWContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.45, "y": 0.65,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": -45 }, "scale": 1.05 },
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"sodplanterSContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.65,"z": -0.45 },"rotation": { "x": -45, "y": 0, "z": 0 }, "scale": 1.05 },
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"sodplanterEContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.45, "y": 0.65,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 45 }, "scale": 1.05 },
+				"shape": { "base": "game:block/plant/barrelcactus/planter/normal*" }
+			},
+			"bucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"ruinedbucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"crockContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"cookpotdirtyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"cookpotContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"ingotmoldContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"wateringcanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"woodenpanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"backpacknormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"handbasketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"basketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"troughsmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"vesselContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"alchemistContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"blackguardContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"commonerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"forlornContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"reindeerherderContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"steppeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"highleatherContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"hunterContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"jailorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"kingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"kneehighContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"lackeyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"malefactorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"metalcapContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"minerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"minstrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"nomadContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"princeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"rottenkingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"rotwalkerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"squireContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"survivorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"temptressContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"woolContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"messengerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"chutesectionContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"chuteelbowContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"chutetContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"woodbox1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"clayboxgContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"claybox1nContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"claybox1eContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"claybox1wContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"claybox1sContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			}
+		},
+		"side": "server"
+	}
+]
+
+

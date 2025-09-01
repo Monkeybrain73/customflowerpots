@@ -1,0 +1,705 @@
+[
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/smallberrybush.json",
+		"path": "/attributes",
+		"value": {
+			"plantContainable": {
+				"largeContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"anvilContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"cratenormalContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"crateruined1Container": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"cratesmallContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"cratesmallstackedContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"cratemediumContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"crateagedContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"troughlargeContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"metalbarrel1Container": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"metalbarrel2Container": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"metaltank1Container": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"barrelContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"sodplanterNContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.65,"z": 0.50 }, "rotation": { "x": 25, "y": 0, "z": 0 }},
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"sodplanterWContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.50, "y": 0.65,"z": 0.0 }, "rotation": { "x": 0, "y": 0, "z": -25 }},
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"sodplanterSContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.65,"z": -0.50 }, "rotation": { "x": -25, "y": 0, "z": 0 }},
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"sodplanterEContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": -0.50, "y": 0.65,"z": 0.0 }, "rotation": { "x": 0, "y": 0, "z": 25 }},
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/large*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"smallContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"bucketContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"ruinedbucketContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"crockContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"cookpotdirtyContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"cookpotContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"wateringcanContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"woodenpanContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"backpacknormalContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"handbasketContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"basketContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"troughsmallContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"vesselContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"alchemistContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"blackguardContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"commonerContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"forlornContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"reindeerherderContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"steppeContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"highleatherContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"hunterContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"jailorContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"kingContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"kneehighContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"lackeyContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"malefactorContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"metalcapContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"minerContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"minstrelContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"nomadContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"princeContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"rottenkingContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"rotwalkerContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"squireContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"survivorContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"temptressContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"woolContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"messengerContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/small*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"chutesectionContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"chuteelbowContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"chutetContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"clayboxgContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"claybox1nContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"claybox1eContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"claybox1wContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": -0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"claybox1sContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"woodbox1nContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"woodbox1eContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"woodbox1wContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": -0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"woodbox1sContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"rustbox1nContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"rustbox1eContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"rustbox1wContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": -0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"rustbox1sContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"wattlebox1nContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"wattlebox1eContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"wattlebox1wContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": -0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"wattlebox1sContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"metalbox1nContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"metalbox1eContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"metalbox1wContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": -0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"metalbox1sContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"metalbox2nContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"metalbox2eContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"metalbox2wContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": -0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				},
+				"metalbox2sContainer": {
+					"randomRotate": false,
+					"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
+				}
+			}
+		},
+		"side": "server"
+	}
+]

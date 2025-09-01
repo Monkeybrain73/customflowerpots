@@ -1,0 +1,15 @@
+{
+  "type": "code",
+  "modid": "apeflowerpots",
+  "name": "Custom Flowerpots",
+  "description" : "Recycle old anvil molds, boots etc. as flowerpots",
+  "authors": ["xXx_Ape_xXx"],
+  "contributors": ["DanaCraluminum"],
+  "side": "Universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true,
+  "version": "1.3.0",
+  "dependencies": { 
+	"game": "1.21.0"
+  }
+}

@@ -1,0 +1,2140 @@
+[
+{
+	"enabled": true,
+	"op": "addmerge",
+	"file": "game:blocktypes/stone/crystal-small.json",
+	"path": "/attributes/plantContainable",
+	"value": {
+		"smallContainer": {
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+        "largeContainer": {
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+        },
+		"anvilContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"cratenormalContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"crateruined1Container": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"cratesmallContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"cratesmallstackedContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"cratemediumContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"crateagedContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"troughlargeContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"metalbarrel1Container": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"metalbarrel2Container": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"metaltank1Container": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"barrelContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"sodplanterNContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.0, "y": 0.65,"z": 0.45 },"rotation": { "x": 45, "y": 0, "z": 0 }},
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"sodplanterWContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.45, "y": 0.65,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": -45 }},
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"sodplanterSContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.0, "y": 0.65,"z": -0.45 },"rotation": { "x": -45, "y": 0, "z": 0 }},
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"sodplanterEContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": -0.45, "y": 0.65,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 45 }},
+			"shape": { "base": "apeflowerpots:planted/mineral/planter-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"bucketContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"ruinedbucketContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"crockContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"cookpotdirtyContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"cookpotContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"crucibleContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"ingotmoldContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"wateringcanContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"woodenpanContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"backpacknormalContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"handbasketContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"basketContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"troughsmallContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"vesselContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"alchemistContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"blackguardContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"commonerContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"forlornContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"reindeerherderContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"steppeContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"highleatherContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"hunterContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"jailorContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"kingContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"kneehighContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"lackeyContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"malefactorContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"metalcapContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"minerContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"minstrelContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"nomadContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"princeContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"rottenkingContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"rotwalkerContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"squireContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"survivorContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"temptressContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"woolContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"messengerContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"chutesectionContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"chuteelbowContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"chutetContainer": {
+			"randomRotate": false,
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"woodbox1nContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.0, "y": 1.03,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"woodbox1eContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.28, "y": 1.03,"z": 0.0 },"rotation": { "x": 0, "y": 90, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"woodbox1wContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": -0.28, "y": 1.03,"z": 0.0 },"rotation": { "x": 0, "y": 90, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"woodbox1sContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.0, "y": 1.03,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"wattlebox1nContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.0, "y": 1.03,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"wattlebox1eContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.28, "y": 1.03,"z": 0.0 },"rotation": { "x": 0, "y": 90, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"wattlebox1wContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": -0.28, "y": 1.03,"z": 0.0 },"rotation": { "x": 0, "y": 90, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"wattlebox1sContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.0, "y": 1.03,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"rustbox1nContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.0, "y": 1.03,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"rustbox1eContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.28, "y": 1.03,"z": 0.0 },"rotation": { "x": 0, "y": 90, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"rustbox1wContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": -0.28, "y": 1.03,"z": 0.0 },"rotation": { "x": 0, "y": 90, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"rustbox1sContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.0, "y": 1.03,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"metalbox1nContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.0, "y": 1.03,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"metalbox1eContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.28, "y": 1.03,"z": 0.0 },"rotation": { "x": 0, "y": 90, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"metalbox1wContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": -0.28, "y": 1.03,"z": 0.0 },"rotation": { "x": 0, "y": 90, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"metalbox1sContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.0, "y": 1.03,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"claybox1nContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.0, "y": 1.03,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"claybox1eContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.28, "y": 1.03,"z": 0.0 },"rotation": { "x": 0, "y": 90, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"claybox1wContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": -0.28, "y": 1.03,"z": 0.0 },"rotation": { "x": 0, "y": 90, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"claybox1sContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.0, "y": 1.03,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		},
+		"clayboxgContainer": {
+			"randomRotate": false,
+			"Transform": { "translation": { "x": 0.0, "y": 0.23,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.3 },
+			"shape": { "base": "apeflowerpots:planted/mineral/wallbox-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
+		}
+	},
+	"side": "server"
+}
+]

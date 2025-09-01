@@ -1,0 +1,321 @@
+[
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "bucket1", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-ruinedbucket" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "barrel-metal1", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-metalbarrel1" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "barrel-metal2", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-metalbarrel1" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "barrel-metal3", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-metalbarrel2" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "barrel-metal4", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-metalbarrel1" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "tank-metal3", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-metaltank1" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-large-empty", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-large-cobweb", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-large-junk", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-large-pottery", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-large-rot", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/large-clothing1", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/large-generic-junk1", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/large-metaljunk1", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/large-pottery1", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/large-pottery2", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/large-pottery3", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/large-tools1", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-aged" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-medium-empty", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-medium" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-medium-books", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-medium" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-medium-junk", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-medium" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-medium-pottery", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-medium" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-medium-pottery-alt", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-medium" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-small-empty", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-small" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-small-junk", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-small" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-small-pottery", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-small" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-small-rot", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-small" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-small-stacked", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-stackedsmall" }
+	},
+	{
+		"ingredientPattern": "C,D",
+		"ingredients": {
+			"C": { "type": "block", "code": "game:clutter", "attributes": { "type": "crate/crate-large-ruined1", "collected": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:cratepot-ruined1" }
+	}
+]

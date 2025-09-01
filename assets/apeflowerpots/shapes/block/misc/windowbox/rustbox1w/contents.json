@@ -1,0 +1,61 @@
+{
+	"editor": {
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textureSizes": {
+	},
+	"textures": {
+	},
+	"elements": [
+		{
+			"name": "FlowerNorth",
+			"from": [ -4.4, 0.0, 4.5 ],
+			"to": [ 11.6, 16.0, 4.5 ],
+			"shade": false,
+			"renderPass": 2,
+			"rotationOrigin": [ 3.6, 2.0, 4.5 ],
+			"rotationY": -45.0,
+			"faces": {
+				"north": { "texture": "#north", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "windMode": [0,1,1,0], "windData": [0,1,1,0] }
+			}
+		},
+		{
+			"name": "FlowerSouth",
+			"from": [ -4.5, 0.0, 4.5 ],
+			"to": [ 11.5, 16.0, 4.5 ],
+			"shade": false,
+			"renderPass": 2,
+			"rotationOrigin": [ 3.5, 2.0, 4.5 ],
+			"rotationY": 45.0,
+			"faces": {
+				"north": { "texture": "#north", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "windMode": [0,1,1,0], "windData": [0,1,1,0] }
+			}
+		},
+		{
+			"name": "FlowerNorth2",
+			"from": [ -4.5, 0.0, 11.0 ],
+			"to": [ 11.5, 16.0, 11.0 ],
+			"shade": false,
+			"renderPass": 2,
+			"rotationOrigin": [ 3.5, 2.0, 11.0 ],
+			"rotationY": -45.0,
+			"faces": {
+				"north": { "texture": "#north", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "windMode": [0,1,1,0], "windData": [0,1,1,0] }
+			}
+		},
+		{
+			"name": "FlowerSouth2",
+			"from": [ -4.5, 0.0, 11.0 ],
+			"to": [ 11.5, 16.0, 11.0 ],
+			"shade": false,
+			"renderPass": 2,
+			"rotationOrigin": [ 3.5, 2.0, 11.0 ],
+			"rotationY": 45.0,
+			"faces": {
+				"north": { "texture": "#north", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "windMode": [0,1,1,0], "windData": [0,1,1,0] }
+			}
+		}
+	]}

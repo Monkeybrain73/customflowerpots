@@ -1,0 +1,501 @@
+[
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/plaintreesapling.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"anvilContainer": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"barrelContainer": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"vesselContainer": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"cratenormalContainer": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"crateagedContainer": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"crateruined1Container": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"cratesmallContainer": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"cratesmallstackedContainer": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"cratemediumContainer": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"troughlargeContainer": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"metaltank1Container": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"metalbarrel1Container": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"metalbarrel2Container": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"sodplanterNContainer": {
+				"Transform":{ "translation": { "x": 0, "y": 0.850, "z": 0 } },
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"sodplanterWContainer": {
+				"Transform":{ "translation": { "x": 0, "y": 0.850, "z": 0 } },
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"sodplanterSContainer": {
+				"Transform":{ "translation": { "x": 0, "y": 0.850, "z": 0 } },
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"sodplanterEContainer": {
+				"Transform":{ "translation": { "x": 0, "y": 0.850, "z": 0 } },
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"chutesectionContainer": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"chuteelbowContainer": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"chutetContainer": {
+				"shapeByType": {
+					"*": { "base": "game:block/plant/sapling/plaintree/potted/{wood}-large" }
+				}
+			},
+			"bucketContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"ruinedbucketContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"troughsmallContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"crockContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"cookpotdirtyContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"cookpotContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"crucibleContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"wateringcanContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"woodenpanContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"backpacknormalContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"handbasketContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"basketContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"troughsmallContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"alchemistContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"blackguardContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"commonerContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"forlornContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"reindeerherderContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"steppeContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"highleatherContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"hunterContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"jailorContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"kingContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"kneehighContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"lackeyContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"malefactorContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"metalcapContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"minerContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"minstrelContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"nomadContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"princeContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"rottenkingContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"rotwalkerContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"squireContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"survivorContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"temptressContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"woolContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"messengerContainer": {
+				"randomRotate": false,
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"woodbox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"woodbox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"woodbox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"woodbox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"wattlebox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"wattlebox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"wattlebox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"wattlebox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"rustbox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"rustbox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"rustbox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"rustbox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"metalbox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"metalbox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"metalbox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"metalbox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"claybox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"claybox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"claybox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"claybox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"clayboxgContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.23,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			}
+
+		},
+		"side": "server"
+	},
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/plaintreesapling.json",
+		"path": "/attributes/plantContainable/smallContainer/shapeByType",
+		"value": {
+			"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+		},
+		"side": "server"
+	}
+]

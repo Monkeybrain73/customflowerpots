@@ -1,0 +1,255 @@
+[
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/croton.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"anvilContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"cratenormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"crateruined1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"cratesmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"cratesmallstackedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"cratemediumContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"crateagedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"troughlargeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"metalbarrel1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"metalbarrel2Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"metaltank1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"barrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"sodplanterNContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"sodplanterWContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"sodplanterSContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"sodplanterEContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"bucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"ruinedbucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"crockContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"cookpotdirtyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"cookpotContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"wateringcanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"woodenpanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"backpacknormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"handbasketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"basketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"troughsmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"vesselContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"alchemistContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"blackguardContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"commonerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"forlornContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"reindeerherderContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"steppeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"highleatherContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"hunterContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"jailorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"kingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"kneehighContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"lackeyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"malefactorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"metalcapContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"minerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"minstrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"nomadContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"princeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"rottenkingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"rotwalkerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"squireContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"survivorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"temptressContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"woolContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"messengerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"chutesectionContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"chuteelbowContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"chutetContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"clayboxgContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"claybox1nContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"claybox1eContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"claybox1wContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"claybox1sContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			}
+		},
+		"side": "server"
+	}
+]

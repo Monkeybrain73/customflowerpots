@@ -1,0 +1,115 @@
+{
+	"code": "anvilmoldplanter",
+	"class": "BlockPlantContainer",
+	"entityClass": "PlantContainer",
+	"behaviorsByType": {
+		"*": [{ "name": "UnstableFalling" } ],
+	},
+	"variantgroups": [
+		{ "code": "type", "states": ["filled"] },
+		{ "code": "filled", "combine": "SelectiveMultiply", "onVariant": "type", "states": [ "blue", "fire", "black", "brown", "cream", "gray", "orange", "red", "tan" ] }
+	],
+	"shapeByType": {
+		"*": { "base": "apeflowerpots:block/clay/anvilmold/full" }
+	},
+	"texturesByType": {
+		"*-filled-blue": {
+			"ceramic": {  "base": "game:block/clay/hardened/blue" },
+			"soil": { "base": "game:block/clay/planter/soil" }
+		},
+		"*-filled-fire": {
+			"ceramic": {  "base": "game:block/clay/hardened/fire" },
+			"soil": { "base": "game:block/clay/planter/soil" }
+		},
+		"*-filled-black": {
+			"ceramic": {  "base": "game:block/clay/hardened/black" },
+			"soil": { "base": "game:block/clay/planter/soil" }
+		},
+		"*-filled-brown": {
+			"ceramic": {  "base": "game:block/clay/hardened/brown" },
+			"soil": { "base": "game:block/clay/planter/soil" }
+		},
+		"*-filled-cream": {
+			"ceramic": {  "base": "game:block/clay/hardened/cream" },
+			"soil": { "base": "game:block/clay/planter/soil" }
+		},
+		"*-filled-gray": {
+			"ceramic": {  "base": "game:block/clay/hardened/gray" },
+			"soil": { "base": "game:block/clay/planter/soil" }
+		},
+		"*-filled-orange": {
+			"ceramic": {  "base": "game:block/clay/hardened/orange" },
+			"soil": { "base": "game:block/clay/planter/soil" }
+		},
+		"*-filled-red": {
+			"ceramic": {  "base": "game:block/clay/hardened/red" },
+			"soil": { "base": "game:block/clay/planter/soil" }
+		},
+		"*-filled-tan": {
+			"ceramic": {  "base": "game:block/clay/hardened/tan" },
+			"soil": { "base": "game:block/clay/planter/soil" }
+		},
+		"*-filled": {
+			"ceramic": {  "base": "game:block/clay/ceramic" },
+			"soil": { "base": "game:block/clay/planter/soil" }
+		},
+		"*": { 
+			"ceramic": {  "base": "game:block/clay/ceramic" },
+			"soil": { "base": "game:block/clay/planter/soil" }
+		},
+	},
+	"attributes": {
+		"sitHeight": 0.75,
+		"beeFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"butterflyFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"plantContainerSize": "anvil",
+		"filledShape": { "base": "apeflowerpots:block/clay/anvilmold/full" },
+		"fillHeight": 0.65
+	},
+	"creativeinventory": { "general": ["*"], "decorative": ["*"], "apeflowerpots": ["*"] },
+	"heldTpIdleAnimation": "holdunderarm",
+	"blockmaterial": "Ceramic",
+	"replaceable": 900,
+	"resistance": 1.5,
+	"lightAbsorption": 1,
+	"maxStackSize": 8,
+	"sidesolid": {
+		"all": false
+	},	
+	"sideopaque": {
+		"all": false
+	},
+	"emitsideao": {
+		"all": false
+	},
+	"sounds": {
+		"walk": "game:walk/stone",
+		"break": "game:block/ceramicplace",
+		"hit": "game:block/ceramichit",
+		"place": "game:block/ceramicplace"
+	},
+	"collisionbox": {
+		"x1": 0.125, "y1": 0, "z1": 0.125,
+		"x2": 0.875, "y2": 0.875, "z2": 0.875
+	},
+	"selectionbox": {
+		"x1": 0.125, "y1": 0, "z1": 0.125,
+		"x2": 0.875, "y2": 0.68, "z2": 0.875
+	},
+	"guiTransform": {
+		"origin": { "x": 0.5, "y": 0.4, "z": 0.5 },
+		"scale": 1.42
+	},
+	"tpHandTransform": {
+		"translation": { "x": -1.3, "y": -0.4, "z": -0.7 },
+		"rotation": { "x": 84, "y": -59, "z": -92 },
+		"scale": 0.47
+	}
+
+}

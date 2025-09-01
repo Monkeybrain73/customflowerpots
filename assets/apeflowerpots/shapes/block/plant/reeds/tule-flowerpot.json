@@ -1,0 +1,101 @@
+{
+	"editor": {
+		"collapsedPaths": "",
+		"allAngles": false,
+		"entityTextureMode": false
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textureSizes": {
+	},
+	"textures": {
+		"leaves": "game:block/plant/reeds/tule",
+		"flower": "game:block/plant/reeds/tule_tufts"
+	},
+	"elements": [
+		{
+			"name": "Cube1",
+			"from": [ 4.0, 0.0, 7.6 ],
+			"to": [ 12.4, 18.2, 7.6 ],
+			"shade": false,
+			"climateColorMap": "climateDarkerPlantTint",
+			"seasonColorMap": "seasonalTule",
+			"renderPass": 1,
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"rotationX": 13.0,
+			"faces": {
+				"north": { "texture": "#leaves", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "autoUv": false, "windMode": [0,7,7,0], "windData": [0,2,2,0] }
+			},
+			"children": [
+				{
+					"name": "Cube4",
+					"from": [ 0.0, 0.0, 0.0 ],
+					"to": [ 8.4, 18.2, 0.0 ],
+					"shade": false,
+					"renderPass": 1,
+					"rotationOrigin": [ 4.2, 0.0, 0.0 ],
+					"faces": {
+						"north": { "texture": "#flower", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "autoUv": false, "windMode": [0,7,7,0], "windData": [0,2,2,0] }
+					}
+				}
+			]
+		},
+		{
+			"name": "Cube2",
+			"from": [ 3.4, 0.0, 7.6 ],
+			"to": [ 11.8, 18.2, 7.6 ],
+			"shade": false,
+			"climateColorMap": "climateDarkerPlantTint",
+			"seasonColorMap": "seasonalTule",
+			"renderPass": 1,
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"rotationX": -13.0,
+			"rotationY": 67.5,
+			"rotationZ": 13.0,
+			"faces": {
+				"north": { "texture": "#leaves", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "autoUv": false, "windMode": [0,7,7,0], "windData": [0,2,2,0] }
+			},
+			"children": [
+				{
+					"name": "Cube5",
+					"from": [ 0.0, 0.0, 0.0 ],
+					"to": [ 8.4, 18.2, 0.0 ],
+					"shade": false,
+					"renderPass": 1,
+					"rotationOrigin": [ 4.2, 0.0, 0.0 ],
+					"faces": {
+						"north": { "texture": "#flower", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "autoUv": false, "windMode": [0,7,7,0], "windData": [0,2,2,0] }
+					}
+				}
+			]
+		},
+		{
+			"name": "Cube3",
+			"from": [ 3.4, 0.0, 7.6 ],
+			"to": [ 11.8, 18.2, 7.6 ],
+			"shade": false,
+			"climateColorMap": "climateDarkerPlantTint",
+			"seasonColorMap": "seasonalTule",
+			"renderPass": 1,
+			"rotationOrigin": [ 8.0, 0.0, 8.0 ],
+			"rotationX": -13.5,
+			"rotationY": -45.0,
+			"rotationZ": -13.0,
+			"faces": {
+				"north": { "texture": "#leaves", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "autoUv": false, "windMode": [0,7,7,0], "windData": [0,2,2,0] }
+			},
+			"children": [
+				{
+					"name": "Cube6",
+					"from": [ 0.0, 0.0, 0.0 ],
+					"to": [ 8.4, 18.2, 0.0 ],
+					"shade": false,
+					"renderPass": 1,
+					"rotationOrigin": [ 4.2, 0.0, 0.0 ],
+					"faces": {
+						"north": { "texture": "#flower", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "autoUv": false, "windMode": [0,7,7,0], "windData": [0,2,2,0] }
+					}
+				}
+			]
+		}
+	]}

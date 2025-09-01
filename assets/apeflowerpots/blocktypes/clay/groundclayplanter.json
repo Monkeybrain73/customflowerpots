@@ -1,0 +1,92 @@
+{
+	"code": "groundclayplanter",
+	"class": "BlockPlantContainer",
+	"entityClass": "PlantContainer",
+	"behaviorsByType": {
+		"*-plain-*": [
+			{ "name": "CF.BBName",
+				"properties": { "parts": ["apeflowerpots:undecoratedclaygroundplanter", " ", "apeflowerpots:claycolor-{material}"] }
+			},
+			{ "name": "Lockable"},
+			{ "name": "UnstableFalling" }
+		],
+		"*": [
+			{ "name": "CF.BBName",
+				"properties": { "parts": ["apeflowerpots:decoratedclaygroundplanter", " ", "apeflowerpots:{design}", " ", "apeflowerpots:claycolor-{material}"] }
+			},
+			{ "name": "Lockable"},
+			{ "name": "UnstableFalling" }
+		]
+	},
+	"variantgroups": [
+		{ "code": "material", "states": ["tan", "orange", "red", "brown", "cream", "gray", "black", "fire"] },
+		{ "code": "design", "states": ["plain", "chthonic", "amber", "ashforest", "copper", "earthern", "loam", "ochre", "rime", "seasalt", "tenmoku", "undergrowth"] }
+	],
+	"shape": { "base": "apeflowerpots:block/misc/windowbox/claybox1g/full" },
+	"texturesByType": {
+		"*-plain": {
+			"ceramic": {  "base": "game:block/clay/hardened/{material}" },
+			"design": { "base": "game:block/clay/hardened/{material}" }
+		},
+		"*-chthonic": { 
+			"ceramic": {  "base": "game:block/clay/hardened/{material}" },
+			"design": { "base": "game:block/clay/vessel/sides/{design}" }
+		},
+		"*": { 
+			"ceramic": {  "base": "game:block/clay/hardened/{material}" },
+			"design": { "base": "game:block/clay/planter/{design}" }
+		}
+	},
+	"attributes": {
+		"handbook": { "groupBy": ["groundclayplanter-*"] },
+		"sitHeight": 0.75,
+		"beeFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"butterflyFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"plantContainerSize": "clayboxg",
+		"filledShape": { "base": "apeflowerpots:block/misc/windowbox/claybox1g/full" },
+		"fillHeight": 0.275,
+	},
+	"creativeinventory": { "general": ["*"], "decorative": ["*"], "apeflowerpots": ["*"] },
+	"heldTpIdleAnimation": "holdbothhandslarge", "heldTpUseAnimation": "twohandplaceblock",
+	"blockmaterial": "Ceramic",
+	"replaceable": 900,
+	"resistance": 1.5,
+	"lightAbsorption": 1,
+	"maxStackSize": 8,
+	"sidesolid": {
+		"all": false
+	},	
+	"sideopaque": {
+		"all": false
+	},
+	"emitsideao": {
+		"all": false
+	},
+	"sounds": {
+		"walk": "game:walk/stone",
+		"break": "game:block/ceramicplace",
+		"hit": "game:block/ceramichit",
+		"place": "game:block/ceramicplace"
+	},
+	"collisionbox": {
+		"x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.3246, "z2": 0.875
+	},
+	"selectionbox": {
+		"x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.3246, "z2": 0.875
+	},
+	"guiTransform": {
+		"origin": { "x": 0.5, "y": 0.2, "z": 0.5 }, "scale": 1.65
+	},
+	"tpHandTransform": {
+		"translation": { "x": -1.2, "y": -0.5, "z": -0.5 },
+		"rotation": { "x": 99, "y": -17, "z": -80 },
+		"origin": { "x": 0.5, "y": 0.5, "z": 0.6 },
+		"scale": 0.7
+	}
+}

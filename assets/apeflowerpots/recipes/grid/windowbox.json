@@ -1,0 +1,260 @@
+[
+	{
+		"ingredientPattern": "_H_,BDB,BBB",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"B": { "type": "item", "code": "game:plank-*", "name": "wood", "allowedVariants": ["aged","oak","birch","maple","pine","acacia","kapok","baldcypress","larch","redwood","ebony","walnut","purpleheart"] },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-woodbox1-{wood}-east" }
+	},
+	{
+		"ingredientPattern": "PHP,GDG,PPP",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "block", "code": "game:metal-scraps", "quantity": 1 },
+			"G": { "type": "item", "code": "game:gear-rusty" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-rustbox1-rusty-iron-east" }
+	},
+	{
+		"ingredientPattern": "_H_,GDG,PBP",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "item", "code": "game:rod-blackbronze", "quantity": 1 },
+			"B": { "type": "item", "code": "game:metalplate-blackbronze", "quantity": 1 },
+			"G": { "type": "item", "code": "game:gear-rusty" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-rustbox1-blackbronze-east" }
+	},
+	{
+		"ingredientPattern": "_H_,GDG,B_B",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"B": { "type": "item", "code": "game:metalplate-molybdochalkos", "quantity": 1 },
+			"G": { "type": "item", "code": "game:gear-rusty" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-rustbox1-molybdochalkos-east" }
+	},
+	{
+		"ingredientPattern": "_H_,GDG,PBP",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "item", "code": "game:rod-copper", "quantity": 1 },
+			"B": { "type": "item", "code": "game:metalplate-copper", "quantity": 1 },
+			"G": { "type": "item", "code": "game:gear-rusty" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-rustbox1-copper-east" }
+	},
+	{
+		"ingredientPattern": "_H_,GDG,PBP",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "item", "code": "game:rod-tinbronze", "quantity": 1 },
+			"B": { "type": "item", "code": "game:metalplate-tinbronze", "quantity": 1 },
+			"G": { "type": "item", "code": "game:gear-rusty" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-rustbox1-tinbronze-east" }
+	},
+	{
+		"ingredientPattern": "_H_,GDG,PBP",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "item", "code": "game:rod-bismuthbronze", "quantity": 1 },
+			"B": { "type": "item", "code": "game:metalplate-bismuthbronze", "quantity": 1 },
+			"G": { "type": "item", "code": "game:gear-rusty" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-rustbox1-bismuthbronze-east" }
+	},
+	{
+		"ingredientPattern": "_H_,GDG,B_B",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"B": { "type": "item", "code": "game:metalplate-brass", "quantity": 1 },
+			"G": { "type": "item", "code": "game:gear-rusty" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-rustbox1-brass-east" }
+	},
+	{
+		"ingredientPattern": "_H_,GDG,PBP",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "item", "code": "game:rod-iron", "quantity": 1 },
+			"B": { "type": "item", "code": "game:metalplate-iron", "quantity": 1 },
+			"G": { "type": "item", "code": "game:gear-rusty" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-rustbox1-iron-east" }
+	},
+	{
+		"ingredientPattern": "_H_,GDG,PBP",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "item", "code": "game:rod-meteoriciron", "quantity": 1 },
+			"B": { "type": "item", "code": "game:metalplate-meteoriciron", "quantity": 1 },
+			"G": { "type": "item", "code": "game:gear-rusty" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-rustbox1-meteoriciron-east" }
+	},
+	{
+		"ingredientPattern": "_H_,GDG,PBP",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "item", "code": "game:rod-steel", "quantity": 1 },
+			"B": { "type": "item", "code": "game:metalplate-steel", "quantity": 1 },
+			"G": { "type": "item", "code": "game:gear-rusty" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-rustbox1-steel-east" }
+	},
+	{
+		"ingredientPattern": "S_S,CDC,CCC",
+		"ingredients": {
+			"C": { "type": "item", "code": "game:cattailtops", "quantity": 2 },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 },
+			"S": { "type": "item", "code": "game:stick", "quantity": 2 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-wattlebox1-reed-east" }
+	},
+	{
+		"ingredientPattern": "HDC,PDP,_S_",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"C": { "type": "item", "code": "game:chisel-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "item", "code": "game:rod-blackbronze", "quantity": 1 },
+			"S": { "type": "item", "code": "game:metalnailsandstrips-blackbronze", "quantity": 2 },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-metalbox1-blackbronze-east" }
+	},
+	{
+		"ingredientPattern": "HDC,PDP,_S_",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"C": { "type": "item", "code": "game:chisel-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "item", "code": "game:rod-copper", "quantity": 1 },
+			"S": { "type": "item", "code": "game:metalnailsandstrips-copper", "quantity": 2 },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-metalbox1-copper-east" }
+	},
+	{
+		"ingredientPattern": "HDC,PDP,_S_",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"C": { "type": "item", "code": "game:chisel-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "item", "code": "game:rod-tinbronze", "quantity": 1 },
+			"S": { "type": "item", "code": "game:metalnailsandstrips-tinbronze", "quantity": 2 },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-metalbox1-tinbronze-east" }
+	},
+	{
+		"ingredientPattern": "HDC,PDP,_S_",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"C": { "type": "item", "code": "game:chisel-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "item", "code": "game:rod-iron", "quantity": 1 },
+			"S": { "type": "item", "code": "game:metalnailsandstrips-iron", "quantity": 2 },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-metalbox1-iron-east" }
+	},
+	{
+		"ingredientPattern": "HDC,PDP,_S_",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"C": { "type": "item", "code": "game:chisel-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "item", "code": "game:rod-steel", "quantity": 1 },
+			"S": { "type": "item", "code": "game:metalnailsandstrips-steel", "quantity": 2 },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-metalbox1-steel-east" }
+	},
+	{
+		"ingredientPattern": "HDC,PDP,_S_",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"C": { "type": "item", "code": "game:chisel-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "item", "code": "game:metalplate-molybdochalkos", "name": "metal", "quantity": 2 },
+			"S": { "type": "item", "code": "game:metalnailsandstrips-*", "allowedVariants": ["blackbronze","copper","tinbronze"], "quantity": 2 },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-metalbox1-molybdochalkos-east" }
+	},
+	{
+		"ingredientPattern": "H__,SDS,_P_",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:hammer-*", "isTool": true, "toolDurabilityCost": 5 },
+			"P": { "type": "item", "code": "game:rod-iron", "quantity": 1 },
+			"S": { "type": "item", "code": "apeflowerpots:planterpart-hook-iron", "quantity": 2 },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 1 }
+		},
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:windowbox-metalbox2-iron-east" }
+	},
+]

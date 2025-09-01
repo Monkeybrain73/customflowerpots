@@ -1,0 +1,138 @@
+{
+	"code": "cratepot",
+	"class": "BlockPlantContainer",
+	"entityClass": "PlantContainer",
+	"behaviors": [ { "name": "UnstableFalling" } ],
+	"variantgroups": [
+		{ "code": "type", "states": [ "aged", "birch", "oak", "maple", "pine", "acacia", "kapok", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart", "ruined1", "medium", "small", "stackedsmall" ] }
+	],
+	"attributes": {
+		"humanoidTraversalCost": 2,
+		"handbook": {
+			"groupBy": [ "cratepot" ]
+		},
+		"sitHeight": 0.75,
+		"beeFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"butterflyFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"plantContainerSizeByType": {
+			"*-stackedsmall": "cratesmallstacked",
+			"*-small": "cratesmall",
+			"*-medium": "cratemedium",
+			"*-ruined1": "crateruined1",
+			"*-aged": "crateaged",
+			"*": "cratenormal",
+		},
+		"filledShapeByType": {
+			"*-stackedsmall": { "base": "apeflowerpots:block/misc/crates/stackedsmall/full" },
+			"*-small": { "base": "apeflowerpots:block/misc/crates/small/full" },
+			"*-medium": { "base": "apeflowerpots:block/misc/crates/medium/full" },
+			"*-ruined1": { "base": "apeflowerpots:block/misc/crates/ruined1/full" },
+			"*-aged": { "base": "apeflowerpots:block/misc/crates/aged/full" },
+			"*": { "base": "apeflowerpots:block/misc/crates/normal/full" }
+		},
+		"fillHeightByType": {
+			"*-stackedsmall": 0.765,
+			"*-small": 0.355,
+			"*-medium": 0.555,
+			"*-ruined1": 0.880,
+			"*": 0.940
+		}
+	},
+	"creativeinventory": { "general": ["*"], "decorative": ["*"], "apeflowerpots": ["*"] },
+	"shapeByType": {
+		"*-stackedsmall": { "base": "apeflowerpots:block/misc/crates/stackedsmall/full", "rotateY": 0 },
+		"*-small": { "base": "apeflowerpots:block/misc/crates/small/full", "rotateY": 0 },
+		"*-medium": { "base": "apeflowerpots:block/misc/crates/medium/full", "rotateY": 0 },
+		"*-ruined1": { "base": "apeflowerpots:block/misc/crates/ruined1/full", "rotateY": 0 },
+		"*-aged": { "base": "apeflowerpots:block/misc/crates/aged/full", "rotateY": 0 },
+		"*": { "base": "apeflowerpots:block/misc/crates/normal/full", "rotateY": 0 }
+	},
+	"texturesByType": {
+		"*-stackedsmall": {
+			"fertmedium": { "base": "game:block/soil/fertmedium" },
+			"aged1": { "base": "game:block/wood/planks/aged/generic1" }
+		},
+		"*-small": {
+			"fertmedium": { "base": "game:block/soil/fertmedium" },
+			"aged1": { "base": "game:block/wood/planks/aged/generic1" }
+		},
+		"*-medium": {
+			"fertmedium": { "base": "game:block/soil/fertmedium" },
+			"rusty-iron": { "base": "game:block/metal/tarnished/rusty-iron" },
+			"aged1": { "base": "game:block/wood/planks/aged/generic1" }
+		},
+		"*-ruined1": {
+			"fertmedium": { "base": "game:block/soil/fertmedium" },
+			"charred": { "base": "game:block/wood/charred" },
+			"rottenebony1": { "base": "game:block/wood/planks/rottenebony1" }
+		},
+		"*-aged": {
+			"aged1": { "base": "game:block/wood/planks/aged/generic1" },
+			"fertmedium": { "base": "game:block/soil/fertmedium" },
+			"sides": { "base": "game:block/wood/crate/{type}-sides" },
+			"inside": { "base": "game:block/wood/crate/{type}-inside" }
+		},
+		"*": {
+			"frame-generic": { "base": "game:block/wood/crate/frame-generic" },
+			"fertmedium": { "base": "game:block/soil/fertmedium" },
+			"sides": { "base": "game:block/wood/crate/{type}-sides" },
+			"inside": { "base": "game:block/wood/crate/{type}-inside" }
+		}
+	},
+	"heldTpIdleAnimation": "holdbothhandslarge", "heldTpUseAnimation": "twohandplaceblock",
+	"blockmaterial": "Wood",
+	"replaceable": 900,
+	"resistance": 3,
+	"lightAbsorption": 1,
+	"materialDensity": 600,
+	"sidesolid": {
+		"all": false
+	},	
+	"sideopaque": {
+		"all": false
+	},
+	"emitsideao": {
+		"all": false
+	},
+	"sounds": {
+		"place": "game:block/planks",
+		"hit": "game:block/planks",
+		"break": "game:block/planks",
+		"walk": "game:walk/wood"
+	},
+	"collisionboxByType": {
+		"*-stackedsmall": { "x1": 0.125, "y1": 0, "z1": 0.075, "x2": 0.875, "y2": 0.475, "z2": 0.875 },
+		"*-small": { "x1": 0.125, "y1": 0, "z1": 0.075, "x2": 0.875, "y2": 0.475, "z2": 0.875 },
+		"*-medium": { "x1": 0.125, "y1": 0, "z1": 0.075, "x2": 0.875, "y2": 0.575, "z2": 0.875 },
+		"*-ruined1": { "x1": 0.125, "y1": 0, "z1": 0.075, "x2": 0.875, "y2": 0.875, "z2": 0.875 },
+		"*": { "x1": 0.075, "y1": 0, "z1": 0.075, "x2": 0.975, "y2": 0.975, "z2": 0.975 }
+	},
+	"selectionboxByType": {
+		"*-stackedsmall": { "x1": 0.125, "y1": 0, "z1": 0.075, "x2": 0.875, "y2": 0.475, "z2": 0.875 },
+		"*-small": { "x1": 0.125, "y1": 0, "z1": 0.075, "x2": 0.875, "y2": 0.475, "z2": 0.875 },
+		"*-medium": { "x1": 0.125, "y1": 0, "z1": 0.075, "x2": 0.875, "y2": 0.575, "z2": 0.875 },
+		"*-ruined1": { "x1": 0.125, "y1": 0, "z1": 0.075, "x2": 0.875, "y2": 0.875, "z2": 0.875 },
+		"*": { "x1": 0.075, "y1": 0, "z1": 0.075, "x2": 0.975, "y2": 0.975, "z2": 0.975 }
+	},
+	"guiTransformByType": {
+		"*-stackedsmall": { "origin": { "x": 0.5, "y": 0.4, "z": 0.5 }, "scale": 1.42	},
+		"*-small": { "origin": { "x": 0.5, "y": 0.4, "z": 0.5 }, "scale": 1.42	},
+		"*-medium": { "origin": { "x": 0.5, "y": 0.4, "z": 0.5 }, "scale": 1.42	},
+		"*-ruined1": { "origin": { "x": 0.5, "y": 0.4, "z": 0.5 }, "scale": 1.22	},
+		"*": { "origin": { "x": 0.5, "y": 0.5, "z": 0.5 }, "scale": 1.16	}
+	},
+	"tpHandTransformByType": {
+		"*-stackedsmall": { "translation": { "x": 0, "y": 0, "z": 0 }, "rotation": { "x": 15, "y": 10, "z": -77 }, "origin": { "x": 0, "y": 0.15, "z": 0.29 }, "scale": 0.47 },
+		"*-small": { "translation": { "x": 0, "y": 0, "z": 0 }, "rotation": { "x": 15, "y": 10, "z": -77 }, "origin": { "x": 0.13, "y": 0.02, "z": 0.29 }, "scale": 0.47 },
+		"*-medium": { "translation": { "x": 0, "y": 0, "z": 0 }, "rotation": { "x": 15, "y": 10, "z": -77 }, "origin": { "x": 0.13, "y": 0.02, "z": 0.29 }, "scale": 0.47 },
+		"*-ruined1": { "translation": { "x": 0, "y": 0, "z": 0 }, "rotation": { "x": 15, "y": 10, "z": -77 }, "origin": { "x": 0.1, "y": 0.1, "z": 0.27 }, "scale": 0.47 },
+		"*": { "translation": { "x": 0, "y": 0, "z": 0 }, "rotation": { "x": 3, "y": 15, "z": -80 }, "origin": { "x": 0.2, "y": 0, "z": 0.24 }, "scale": 0.47 }
+	}
+
+}

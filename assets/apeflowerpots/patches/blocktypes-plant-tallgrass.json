@@ -1,0 +1,499 @@
+[
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/tallgrass.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"anvilContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"cratenormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"crateruined1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"cratesmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"cratesmallstackedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"cratemediumContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"crateagedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"troughlargeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"metalbarrel1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"metalbarrel2Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"metaltank1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"barrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"sodplanterNContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"sodplanterWContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"sodplanterSContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"sodplanterEContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/planter/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"bucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"ruinedbucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"crockContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"cookpotdirtyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"cookpotContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"wateringcanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"woodenpanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"backpacknormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"handbasketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"basketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"troughsmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"vesselContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"alchemistContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"blackguardContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"commonerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"forlornContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"reindeerherderContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"steppeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"highleatherContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"hunterContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"jailorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"kingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"kneehighContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"lackeyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"malefactorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"metalcapContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"minerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"minstrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"nomadContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"princeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"rottenkingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"rotwalkerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"squireContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"survivorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"temptressContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"woolContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"messengerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"chutesectionContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"chuteelbowContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"chutetContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"clayboxgContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"claybox1nContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"claybox1eContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"claybox1wContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			},
+			"claybox1sContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
+			}
+		},
+		"side": "server"
+	}
+]

@@ -1,0 +1,381 @@
+[
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:barrel" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 2 }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-barrel" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-barrel", "returnedStack": { "type": "block", "code": "game:soil-medium-none", "quantity": 1 } }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:barrel" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:woodbucket" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-bucket" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-bucket", "returnedStack": { "type": "block", "code": "game:soil-medium-none", "quantity": 1 }
+			}
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:woodbucket" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:trough-genericwood-large-*" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 2 }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-troughlarge" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-troughlarge", "returnedStack": { "type": "block", "code": "game:soil-medium-none", "quantity": 1 } }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:trough-genericwood-large-head-north" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:trough-genericwood-small-*" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"], "quantity": 2 }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-troughsmall" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-troughsmall" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:trough-genericwood-small-ns" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:basket-normal-*", "name": "material" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-handbasket-{material}" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-handbasket-*", "name": "material" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:basket-normal-{material}" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:stationarybasket-east", "attributes": { "type": "reed" } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-basket-reed" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:stationarybasket-east", "attributes": { "type": "papyrus" } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-basket-papyrus" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-basket-reed" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:stationarybasket-east", "attributes": { "type": "reed"} }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-basket-papyrus" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:stationarybasket-east", "attributes": { "type": "papyrus"} }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:pan-wooden" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-woodenpan" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-woodenpan" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:pan-wooden" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:crock-*-fired", "name": "colour" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-{colour}-fired-crock" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-*-fired-crock", "name": "colour" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crock-{colour}-fired" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:claypot-*-fired", "name": "colour" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-{colour}-fired-cookpot" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-*-fired-cookpot", "name": "colour" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:claypot-{colour}-fired" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:dirtyclaypot-*-empty", "name": "colour", "attributes": { "mealContainer": false, "isDirtyPot": true } },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-{colour}-fired-cookpotdirty" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-*-fired-cookpotdirty", "name": "colour" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:dirtyclaypot-{colour}-empty", "attributes": { "mealContainer": false, "isDirtyPot": true } }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:wateringcan-*-fired", "name": "colour" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-{colour}-fired-wateringcan" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-*-fired-wateringcan", "name": "colour" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:wateringcan-{colour}-fired" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:backpack-normal"},
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-backpacknormal" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-backpacknormal"}
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:backpack-normal" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:chutesection-*"},
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-chutesection" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-chutesection" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:chutesection-copper" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:chute-elbow-*"},
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-chuteelbow" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-chuteelbow" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:chute-elbow-down-east" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:chute-t-*"},
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-chutet" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-chutet" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:chute-t-ns" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:ingotmold-*-fired", "name": "colour" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-{colour}-fired-ingotmold" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-*-fired-ingotmold", "name": "colour" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:ingotmold-{colour}-fired" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "block", "code": "game:crucible-*-fired", "name": "colour" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:miscflowerpots-{colour}-fired-crucible" }
+	},
+	{
+		"ingredientPattern": "B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:miscflowerpots-*-fired-crucible", "name": "colour" }
+		},
+		"width": 1,
+		"height": 1,
+		"shapeless": true,
+		"output": { "type": "block", "code": "game:crucible-{colour}-fired" }
+	}
+]

@@ -1,0 +1,95 @@
+{
+	"code": "sodplanter",
+	"class": "CustomPlanter",
+	"entityClass": "PlantContainer",
+	"behaviors": [ { "name": "HorizontalOrientable", "properties": {  "dropBlockFace": "east", "drop": { "type": "block", "code": "sodplanter-east-free" }  }}],
+	"variantgroups": [
+		{ "loadFromProperties": "abstract/horizontalorientation" },
+		{ "code": "cover", "states": ["free", "snow"] }
+	],
+	"attributes": {
+		"humanoidTraversalCost": 100,
+		"mapColorCode": "settlement",
+		"sitHeight": 0.75,
+		"beeFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"butterflyFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"plantContainerSizeByType": {
+			"*-north-*": "sodplanterN",
+			"*-west-*": "sodplanterW",
+			"*-south-*": "sodplanterS",
+			"*-east-*": "sodplanterE",
+		},
+		"filledShapeByType": {
+			"*-north-*": { "base": "apeflowerpots:block/misc/sodroofingn/full-{cover}" },
+			"*-west-*": { "base": "apeflowerpots:block/misc/sodroofingw/full-{cover}" },
+			"*-south-*": { "base": "apeflowerpots:block/misc/sodroofings/full-{cover}" },
+			"*-east-*": { "base": "apeflowerpots:block/misc/sodroofinge/full-{cover}" }
+		},
+		"fillHeightByType": { 
+			"*-north-*": 0.650,
+			"*-west-*": 0.650,
+			"*-south-*": 0.650,
+			"*-east-*": 0.650,
+		},
+	},
+	"shapeByType": {
+		"*-north-*": { "base": "apeflowerpots:block/misc/sodroofingn/full-{cover}" },
+		"*-west-*": { "base": "apeflowerpots:block/misc/sodroofingw/full-{cover}" },
+		"*-south-*": { "base": "apeflowerpots:block/misc/sodroofings/full-{cover}" },
+		"*-east-*": { "base": "apeflowerpots:block/misc/sodroofinge/full-{cover}" }
+	},
+	"textures": {
+		"normal": { "base": "game:block/plant/grasscoverage/normal" },
+		"short-north": { "base": "game:block/plant/tallgrass/free/short-north" },
+		"short-south": { "base": "game:block/plant/tallgrass/free/short-south" },
+		"aged1": { "base": "game:block/wood/planks/aged/generic1" },
+		"aged-side": { "base": "game:block/wood/roof/aged-side" },
+		"aged-top": { "base": "game:block/wood/roof/aged-top" }
+	},
+	"drawtype": "json",
+	"faceCullMode": "NeverCull",
+	"renderpass": "OpaqueNoCull",
+	"sidesolidByType": {
+		"*-north-*": {"north": true, "south": false, "east": false, "west": false, "up": false, "down": true },
+		"*-south-*": {"north": false, "south": true, "east": false, "west": false, "up": false, "down": true },
+		"*-east-*": {"north": false, "south": false, "east": true, "west": false, "up": false, "down": true },
+		"*-west-*": {"north": false, "south": false, "east": false, "west": true, "up": false, "down": true }
+	},
+	"sideopaque": { "all": false },
+	"blockmaterial": "Plant",
+	"creativeinventory": { "general": ["*-east-free"], "decorative": ["*-east-free"], "apeflowerpots": ["*-east-free"] },
+	"replaceable": 300,
+	"resistance": 2,
+	"lightAbsorption": 99,
+	"emitSideAo": {
+		"all": true
+	},
+	"sideAoByType": { "*": { "all": false } },
+	"collisionSelectionBoxesByType": {
+		"*-north-*": [ { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.5625, "z2": 1, "rotateY": 90 }, { "x1": 0.625, "y1": 0.5625, "z1": 0, "x2": 1, "y2": 1, "z2": 1, "rotateY": 90 } ],
+		"*-west-*": [ { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.5625, "z2": 1, "rotateY": 180 }, { "x1": 0.625, "y1": 0.5625, "z1": 0, "x2": 1, "y2": 1, "z2": 1, "rotateY": 180 } ],
+		"*-south-*": [ { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.5625, "z2": 1, "rotateY": 270 }, { "x1": 0.625, "y1": 0.5625, "z1": 0, "x2": 1, "y2": 1, "z2": 1, "rotateY": 270 } ],
+		"*-east-*": [ { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.5625, "z2": 1 }, { "x1": 0.625, "y1": 0.5625, "z1": 0, "x2": 1, "y2": 1, "z2": 1 } ]
+	},
+	"soundsByType": {
+		"*": {
+			"hit": "game:block/planks",
+			"break": "game:block/planks",
+			"place": "game:block/planks",
+			"walk": "game:walk/grass*"
+		}
+	},
+	"guiTransformByType": {
+		"*": {
+			"rotation": { "x": -22.6, "y": -40, "z": 0 },
+			"origin": { "x": 0.53, "y": 0.55, "z": 0.46 },
+			"scale": 0.85
+		}
+	}
+}

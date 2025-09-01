@@ -1,0 +1,120 @@
+{
+	"code": "bootflowerpot",
+	"class": "BlockPlantContainer",
+	"entityClass": "PlantContainer",
+	"behaviorsByType": {
+		"*": [{"name": "UnstableFalling", "properties": { "attachmentArea": { "x1": 5, "y1": 0, "z1": 5, "x2": 10, "y2": 0, "z2": 10 } }}]
+	},
+	"variantgroups": [
+		{ "code": "type", "states": ["alchemist", "blackguard", "commoner", "forlorn", "reindeerherder", "steppe", "highleather", "hunter", "jailor", "king", "kneehigh", "lackey", "malefactor", "metalcap", "miner", "minstrel", "nomad", "prince", "rottenking", "rotwalker", "squire", "survivor", "temptress", "wool", "messenger"] }
+	],
+	"shape": {
+		"base": "apeflowerpots:item/clothing/{type}/full"
+	},
+	"attributes": {
+		"sitHeight": 0.75,
+		"beeFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"butterflyFeedByType": {
+			"*-empty": false,
+			"*": true
+		},
+		"plantContainerSizeByType": {
+			"*alchemist": "alchemist",
+			"*blackguard": "blackguard",
+			"*commoner": "commoner",
+			"*forlorn": "forlorn",
+			"*reindeerherder": "reindeerherder",
+			"*steppe": "steppe",
+			"*highleather": "highleather",
+			"*hunter": "hunter",
+			"*jailor": "jailor",
+			"*king": "king",
+			"*kneehigh": "kneehigh",
+			"*lackey": "lackey",
+			"*malefactor": "malefactor",
+			"*metalcap": "metalcap",
+			"*miner": "miner",
+			"*minstrel": "minstrel",
+			"*nomad": "nomad",
+			"*prince": "prince",
+			"*rottenking": "rottenking",
+			"*rotwalker": "rotwalker",
+			"*squire": "squire",
+			"*survivor": "survivor",
+			"*temptress": "temptress",
+			"*wool": "wool",
+			"*messenger": "messenger"
+		},
+		"filledShape": { "base": "apeflowerpots:item/clothing/{type}/full" },
+		"fillHeightByType": {
+			"*-alchemist": 0.315,
+			"*-blackguard": 0.215,
+			"*-commoner": 0.395,
+			"*-forlorn": 0.350,
+			"*-reindeerherder": 0.270,
+			"*-steppe": 0.335,
+			"*-highleather": 0.335,
+			"*-hunter": 0.395,
+			"*-jailor": 0.435,
+			"*-king": 0.245,
+			"*-kneehigh": 0.495,
+			"*-lackey": 0.305,
+			"*-malefactor": 0.495,
+			"*-metalcap": 0.185,
+			"*-miner": 0.185,
+			"*-minstrel": 0.338,
+			"*-nomad": 0.435,
+			"*-prince": 0.305,
+			"*-rottenking": 0.245,
+			"*-rotwalker": 0.495,
+			"*-squire": 0.495,
+			"*-survivor": 0.495,
+			"*-temptress": 0.185,
+			"*-wool": 0.338,
+			"*-messenger": 0.495
+		}
+	},
+	"doNotRenderAtLod2": true,
+	"creativeinventory": { "general": ["*"], "decorative": ["*"], "apeflowerpots": ["*"] },
+	"blockmaterial": "Ceramic",
+	"replaceable": 900,
+	"resistance": 1.5,
+	"lightAbsorption": 1,
+	"maxStackSize": 8,
+	"sidesolid": {
+		"all": false
+	},
+	"sideopaque": {
+		"all": false
+	},
+	"emitsideao": {
+		"all": false
+	},
+	"sounds": {
+		"walk": "game:walk/stone",
+		"break": "game:block/ceramicplace",
+		"hit": "game:block/ceramichit",
+		"place": "game:block/ceramicplace"
+	},
+	"collisionbox": {
+		"x1": 0.3125, "y1": 0, "z1": 0.3125,
+		"x2": 0.6875, "y2": 0.4375, "z2": 0.6875
+	},
+	"selectionbox": {
+		"x1": 0.3125, "y1": 0, "z1": 0.3125,
+		"x2": 0.6875, "y2": 0.4375, "z2": 0.6875
+	},
+	"tpHandTransform": {
+		"translation": { "x": -1.25, "y": -0.56, "z": -1.16 },
+		"rotation": { "x": -111, "y": 65, "z": -95 },
+		"origin": { "x": 0.5, "y": 0.2, "z": 0.5 },
+		"scale": 0.45
+	},
+	"guiTransform": {
+		"origin": { "x": 0.5, "y": 0.3, "z": 0.5 },
+		"scale": 1.5
+	}
+}

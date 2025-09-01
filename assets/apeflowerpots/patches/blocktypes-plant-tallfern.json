@@ -1,0 +1,316 @@
+[
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/tallfern.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"anvilContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"cratenormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"crateruined1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"cratesmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"cratesmallstackedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"cratemediumContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"crateagedContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"troughlargeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"metalbarrel1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"metalbarrel2Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"metaltank1Container": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"barrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"sodplanterNContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"sodplanterWContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"sodplanterSContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"sodplanterEContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/fern*" }
+			},
+			"bucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"ruinedbucketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"crockContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"cookpotdirtyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"cookpotContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"wateringcanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"woodenpanContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"backpacknormalContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"handbasketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"basketContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"troughsmallContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"vesselContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"alchemistContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"blackguardContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"commonerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"forlornContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"reindeerherderContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"steppeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"highleatherContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"hunterContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"jailorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"kingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"kneehighContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"lackeyContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"malefactorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"metalcapContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"minerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"minstrelContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"nomadContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"princeContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"rottenkingContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"rotwalkerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"squireContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"survivorContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"temptressContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"woolContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"messengerContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"chutesectionContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"chuteelbowContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"chutetContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"clayboxgContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"claybox1nContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"claybox1eContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"claybox1wContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"claybox1sContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			}
+		},
+		"side": "server"
+	}
+]

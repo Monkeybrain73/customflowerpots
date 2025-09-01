@@ -1,0 +1,189 @@
+[
+{
+	"enabled": true,
+	"op": "addmerge",
+	"path": "/attributes/plantContainable",
+	"value": {
+			"anvilContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"cratenormalContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"crateruined1ContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"cratesmallContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"cratesmallstackedContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"cratemediumContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"crateagedContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"troughlargeContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"metalbarrel1ContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"metalbarrel2ContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"metaltank1ContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"barrelContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"sodplanterNContainerByType": {
+				"*-callistephuschinensis-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"sodplanterWContainerByType": {
+				"*-callistephuschinensis-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"sodplanterSContainerByType": {
+				"*-callistephuschinensis-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"sodplanterEContainerByType": {
+				"*-callistephuschinensis-*": {"randomRotate": false,"shape": {"base": "block/plant/flower/callistephuschinensis1"}}								
+			},
+			"bucketContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"ruinedbucketContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"crockContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"cookpotdirtyContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"cookpotContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"crucibleContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"ingotmoldContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"wateringcanContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"woodenpanContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"backpacknormalContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"handbasketContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"basketContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"troughsmallContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"vesselContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"alchemistContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"blackguardContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"commonerContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"forlornContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"reindeerherderContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"steppeContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"highleatherContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"hunterContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"jailorContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"kingContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"kneehighContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"lackeyContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"malefactorContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"metalcapContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"minerContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"minstrelContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"nomadContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"princeContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"rottenkingContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"rotwalkerContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"squireContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"survivorContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"temptressContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"woolContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"messengerContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"chutesectionContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"chuteelbowContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"chutetContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"clayboxgContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			}
+	},
+	"file": "floralzoneseastasiaticregion:blocktypes/plant/asters.json",
+	"side": "server",
+    "dependsOn": [{ "modid": "floralzoneseastasiaticregion" }]
+}
+]

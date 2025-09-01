@@ -1,0 +1,506 @@
+[
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-alchemist" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-alchemist", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-alchemist" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-alchemist" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-blackguard-shoes" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-blackguard", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-blackguard" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-blackguard-shoes" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-commoner-boots" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-commoner", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-commoner" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-commoner-boots" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-forlorn-shoes" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-forlorn", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-forlorn" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-forlorn-shoes" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-fur-lined-reindeer-herder-shoes" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-reindeerherder", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-reindeerherder" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-fur-lined-reindeer-herder-shoes" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-great-steppe-boots" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-steppe", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-steppe" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-great-steppe-boots" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-high-leather-boots" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-highleather", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-highleather" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-high-leather-boots" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-hunter-boots" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-hunter", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-hunter" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-hunter-boots" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-jailor-boots" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-jailor", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-jailor" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-jailor-boots" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-king" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-king", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-king" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-king" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-knee-high-fur-boots" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-kneehigh", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-kneehigh" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-knee-high-fur-boots" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-lackey-shoes" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-lackey", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-lackey" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-lackey-shoes" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-malefactor-boots" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-malefactor", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-malefactor" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-malefactor-boots" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-metalcap-boots" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-metalcap", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-metalcap" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-metalcap-boots" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-miner" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-miner", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-miner" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-miner" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-nomad-boots" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-nomad", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-nomad" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-nomad-boots" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-prince-boots" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-prince", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-prince" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-prince-boots" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-rottenking" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-rottenking", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-rottenking" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-rottenking" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-rotwalker" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-rotwalker", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-rotwalker" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-rotwalker" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-squire-boots" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-squire", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-squire" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-squire-boots" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-survivor" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-survivor", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-survivor" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-survivor" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-temptress-velvet-shoes" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-temptress", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-temptress" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-temptress-velvet-shoes" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-wool-lined-knee-high-boots" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-wool", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-wool" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-wool-lined-knee-high-boots" }
+	},
+	{
+		"ingredientPattern": "B,D",
+		"ingredients": {
+			"B": { "type": "item", "code": "game:clothes-foot-messenger-shoes" },
+			"D": { "type": "block", "code": "game:soil-*", "allowedVariants": ["verylow-none", "low-none", "medium-none"] }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "block", "code": "apeflowerpots:bootflowerpot-messenger", "quantity": 2 }
+	},
+	{
+		"ingredientPattern": "B,B",
+		"ingredients": {
+			"B": { "type": "block", "code": "apeflowerpots:bootflowerpot-messenger" }
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { "type": "item", "code": "game:clothes-foot-messenger-shoes" }
+	}
+]

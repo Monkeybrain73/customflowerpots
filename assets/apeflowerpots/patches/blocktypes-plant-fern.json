@@ -248,6 +248,10 @@
 			"claybox1sContainer": {
 				"randomRotate": false,
 				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
+			},
+			"large4xContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/fern/{type}/flowerpot/var*" }
 			}
 		},
 		"side": "server"

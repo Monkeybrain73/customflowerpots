@@ -492,6 +492,15 @@
 					"north": { "base": "game:block/plant/potted/tallgrass" },
 					"south": { "base": "game:block/plant/potted/tallgrass" }
 				}
+			},
+			"large4xContainer": {
+				"randomRotate": false,
+				"Transform": { "scale": 0.9 },
+				"shape": { "base": "game:block/clay/flowerpot/contents" },
+				"textures": {
+					"north": { "base": "game:block/plant/potted/tallgrass" },
+					"south": { "base": "game:block/plant/potted/tallgrass" }
+				}
 			}
 		},
 		"side": "server"

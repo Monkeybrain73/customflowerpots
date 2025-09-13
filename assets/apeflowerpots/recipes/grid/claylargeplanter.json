@@ -1,0 +1,156 @@
+[
+	{
+		"ingredientPattern": "A__,B__,C__",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-*", "name": "claytype" },
+			"B": { "type": "item", "code": "apeflowerpots:patterntransfer-chthonic" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-gray", "name": "dye" }, "requiresLitres": 0.1 } },
+		"name": "dye",
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:largeplanter-{claytype}-cthonic" }
+	},
+	{
+		"ingredientPattern": "A__,B__,C__",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-*", "name": "claytype" },
+			"B": { "type": "item", "code": "apeflowerpots:patterntransfer-ashforest" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-blue", "name": "dye" }, "requiresLitres": 0.1 } },
+		"name": "dye",
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:largeplanter-{claytype}-ashforest" }
+	},
+	{
+		"ingredientPattern": "A__,B__,C__",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-*", "name": "claytype" },
+			"B": { "type": "item", "code": "apeflowerpots:patterntransfer-copper" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-white", "name": "dye" }, "requiresLitres": 0.1 } },
+		"name": "dye",
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:largeplanter-{claytype}-copper" }
+	},
+	{
+		"ingredientPattern": "A__,B__,C__",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-*", "name": "claytype" },
+			"B": { "type": "item", "code": "apeflowerpots:patterntransfer-earthern" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-white", "name": "dye" }, "requiresLitres": 0.1 } },
+		"name": "dye",
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:largeplanter-{claytype}-earthern" }
+	},
+	{
+		"ingredientPattern": "A__,B__,C__",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-*", "name": "claytype" },
+			"B": { "type": "item", "code": "apeflowerpots:patterntransfer-loam" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-gray", "name": "dye" }, "requiresLitres": 0.1 } },
+		"name": "dye",
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:largeplanter-{claytype}-loam" }
+	},
+	{
+		"ingredientPattern": "A__,B__,C__",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-*", "name": "claytype" },
+			"B": { "type": "item", "code": "apeflowerpots:patterntransfer-ochre" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-white", "name": "dye" }, "requiresLitres": 0.1 } },
+		"name": "dye",
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:largeplanter-{claytype}-ochre" }
+	},
+	{
+		"ingredientPattern": "A__,B__,C__",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-*", "name": "claytype" },
+			"B": { "type": "item", "code": "apeflowerpots:patterntransfer-rime" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-gray", "name": "dye" }, "requiresLitres": 0.1 } },
+		"name": "dye",
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:largeplanter-{claytype}-rime" }
+	},
+	{
+		"ingredientPattern": "A__,B__,C__",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-*", "name": "claytype" },
+			"B": { "type": "item", "code": "apeflowerpots:patterntransfer-seasalt" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-blue", "name": "dye" }, "requiresLitres": 0.1 } },
+		"name": "dye",
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:largeplanter-{claytype}-seasalt" }
+	},
+	{
+		"ingredientPattern": "A__,B__,C__",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-*", "name": "claytype" },
+			"B": { "type": "item", "code": "apeflowerpots:patterntransfer-undergrowth" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-gray", "name": "dye" }, "requiresLitres": 0.1 } },
+		"name": "dye",
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:largeplanter-{claytype}-undergrowth" }
+	},
+	{
+		"ingredientPattern": "A__,B__,C__",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-*", "name": "claytype" },
+			"B": { "type": "item", "code": "apeflowerpots:patterntransfer-amber" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-white", "name": "dye" }, "requiresLitres": 0.1 } },
+		"name": "dye",
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:largeplanter-{claytype}-amber" }
+	},
+	{
+		"ingredientPattern": "A__,B__,C__",
+		"ingredients": {
+			"A": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-*", "name": "claytype" },
+			"B": { "type": "item", "code": "apeflowerpots:patterntransfer-tenmoku" },
+			"C": { "type": "block", "code": "game:bowl-*-fired" }
+		},
+		"attributes": { "liquidContainerProps": { "requiresContent": { "type": "item", "code": "game:dye-gray", "name": "dye" }, "requiresLitres": 0.1 } },
+		"name": "dye",
+		"width": 3,
+		"height": 3,
+		"shapeless": false,
+		"output": { "type": "block", "code": "apeflowerpots:largeplanter-{claytype}-tenmoku" }
+	}
+]

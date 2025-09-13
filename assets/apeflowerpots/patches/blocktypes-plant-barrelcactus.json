@@ -260,6 +260,10 @@
 			"claybox1sContainer": {
 				"randomRotate": false,
 				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"large4xContainer": {
+				"randomRotate": false,
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
 			}
 		},
 		"side": "server"

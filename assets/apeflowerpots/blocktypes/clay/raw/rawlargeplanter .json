@@ -1,0 +1,104 @@
+{
+	"code": "rawlargeplanter",
+	"storageFlags": 1,
+	"behaviors": [
+			{ "name": "GroundStorable" },
+			{ "name": "Unplaceable" },
+			{ "name": "RightClickPickup"}
+	],
+	"variantgroups": [
+		{ "code": "clay", "states": ["blue","red","fire"] }
+	],
+	"drawtype": "json",
+	"shape": { "base": "apeflowerpots:block/clay/largeplanter/empty" },
+	"texturesByType": {
+		"*-blue": { "all": { "base": "game:block/clay/blueclay" } },
+		"*-red": { "all": { "base": "game:block/clay/redclay" } },
+		"*-fire": { "all": { "base": "game:block/clay/fireclay" } }
+	},
+	"attributes": {
+		"handbook": { "groupBy": ["*"] },
+		"tempGlowMode": 1,
+		"onTongTransform": {
+			"translation": { "x": -0.7, "y": -1.2, "z": -0.73 },
+			"rotation": { "x": 39, "y": -14, "z": 0 },
+			"scale": 0.8
+		}
+	},
+	"combustibleProps": {
+			"meltingPoint": 600,
+			"meltingDuration": 15,
+			"smeltedRatio": 1,
+			"smeltingType": "fire",
+			"smeltedStackByType": {
+				"*-blue": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-gray" },
+				"*": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-{clay}"}
+			},
+			"requiresContainer": false
+	},
+	"attributesByType":{
+		"*-red":{
+			"beehivekiln":{
+				"0": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-tan" },
+				"1": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-orange" },
+				"2": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-red" },
+				"3": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-brown" }
+			}
+		},
+		"*-blue":{
+			"beehivekiln":{
+				"0": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-cream" },
+				"1": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-gray" },
+				"2": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-black" },
+				"3": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-black" }
+			}
+		},
+		"*-fire":{
+			"beehivekiln":{
+				"0": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-fire" },
+				"1": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-fire" },
+				"2": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-fire" },
+				"3": { "type": "block", "code": "apeflowerpots:burnedlargeplanter-fire" }
+			}
+		},
+	},
+	"creativeinventory": { "general": ["*"], "apeflowerpots": ["*"] },
+	"heldTpIdleAnimation": "holdunderarm",
+	"blockmaterial": "Ceramic",
+	"replaceable": 900,
+	"resistance": 1.5,
+	"lightAbsorption": 1,
+	"maxStackSize": 8,
+	"sidesolid": {
+		"all": false
+	},	
+	"sideopaque": {
+		"all": false
+	},
+	"emitsideao": {
+		"all": false
+	},
+	"sounds": {
+		"walk": "game:walk/stone",
+		"break": "game:block/ceramicplace",
+		"hit": "game:block/ceramichit",
+		"place": "game:block/ceramicplace"
+	},
+	"collisionbox": {
+		"x1": 0, "y1": 0, "z1": 0,
+		"x2": 1, "y2": 0.625, "z2": 1
+	},
+	"selectionbox": {
+		"x1": 0, "y1": 0, "z1": 0,
+		"x2": 1, "y2": 0.625, "z2": 1
+	},
+	"guiTransform": {
+		"origin": { "x": 0.5, "y": 0.14, "z": 0.5 },
+		"scale": 1.77
+	},
+	"tpHandTransform": {
+		"translation": { "x": -1.1, "y": -0.5, "z": -1 },
+		"rotation": { "x": 0, "y": -86, "z": -84 },
+		"scale": 0.47
+	}
+}

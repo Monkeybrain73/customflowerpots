@@ -5,7 +5,9 @@
 	//	**									**
 	//	**************************************
 
-	"game:": "",
+	" ": " ",
+	"(": "(",
+	")": ")",
 	"tabname-apeflowerpots": "Custom Flowerpots",
 
 	"apeflowerpots:block-bootflowerpot-alchemist": "Alchemist boot flowerpot",
@@ -62,15 +64,15 @@
 
 	"apeflowerpots:block-miscflowerpots-*": "Misc flowerpot",
 
-    "apeflowerpots:block-anvilmoldplanter-filled-tan": "Anvilmold flowerpot (Tan)",
-    "apeflowerpots:block-anvilmoldplanter-filled-red": "Anvilmold flowerpot (Red)",
-    "apeflowerpots:block-anvilmoldplanter-filled-orange": "Anvilmold flowerpot (Orange)",
-    "apeflowerpots:block-anvilmoldplanter-filled-gray": "Anvilmold flowerpot (Gray)",
-    "apeflowerpots:block-anvilmoldplanter-filled-cream": "Anvilmold flowerpot (Cream)",
-    "apeflowerpots:block-anvilmoldplanter-filled-brown": "Anvilmold flowerpot (Brown)",
-    "apeflowerpots:block-anvilmoldplanter-filled-black": "Anvilmold flowerpot (Black)",
-    "apeflowerpots:block-anvilmoldplanter-filled-fire": "Anvilmold flowerpot (Fire)",
-    "apeflowerpots:block-anvilmoldplanter-filled-blue": "Anvilmold flowerpot (Blue)",
+	"apeflowerpots:block-anvilmoldplanter-filled-tan": "Anvilmold flowerpot (Tan)",
+	"apeflowerpots:block-anvilmoldplanter-filled-red": "Anvilmold flowerpot (Red)",
+	"apeflowerpots:block-anvilmoldplanter-filled-orange": "Anvilmold flowerpot (Orange)",
+	"apeflowerpots:block-anvilmoldplanter-filled-gray": "Anvilmold flowerpot (Gray)",
+	"apeflowerpots:block-anvilmoldplanter-filled-cream": "Anvilmold flowerpot (Cream)",
+	"apeflowerpots:block-anvilmoldplanter-filled-brown": "Anvilmold flowerpot (Brown)",
+	"apeflowerpots:block-anvilmoldplanter-filled-black": "Anvilmold flowerpot (Black)",
+	"apeflowerpots:block-anvilmoldplanter-filled-fire": "Anvilmold flowerpot (Fire)",
+	"apeflowerpots:block-anvilmoldplanter-filled-blue": "Anvilmold flowerpot (Blue)",
 
 	"apeflowerpots:claycolor-blue": "(Blue)",
 	"apeflowerpots:claycolor-fire": "(Fireclay)",
@@ -89,6 +91,8 @@
 	"apeflowerpots:ingotmold": "Ingot mold flowerpot",
 	"apeflowerpots:wateringcan": "Watering can flowerpot",
 	"apeflowerpots:vesselpot": "Storagevessel flowerpot",
+	"apeflowerpots:largeplanter4x": "Large planter",
+	"apeflowerpots:block-largeplanter-*": "Large planter",
 
 	"apeflowerpots:block-vesselpot-blue-raw": "Unfired storagevessel flowerpot (Blue)",
 	"apeflowerpots:block-vesselpot-fire-raw": "Unfired storagevessel flowerpot (Fireclay)",
@@ -105,6 +109,7 @@
 	"apeflowerpots:ashforest": "Ash forest",
 	"apeflowerpots:amber": "Amber",
 	"apeflowerpots:chthonic": "Chthonic",
+	"apeflowerpots:cthonic": "Chthonic",
 	"apeflowerpots:copper": "Copper",
 	"apeflowerpots:earthen": "Earthen",
 	"apeflowerpots:earthern": "Earthen",
@@ -131,30 +136,30 @@
 	"apeflowerpots:rattlesnake": "Rattlesnake",
 	"apeflowerpots:waves": "Waves",
 	"apeflowerpots:wintersea": "Wintersea",
-    
-    "apeflowerpots:block-cratepot-aged": "Aged crate flowerbed",
-    "apeflowerpots:block-cratepot-birch": "Birch crate flowerbed",
-    "apeflowerpots:block-cratepot-oak": "Oak crate flowerbed",
-    "apeflowerpots:block-cratepot-maple": "Maple crate flowerbed",
-    "apeflowerpots:block-cratepot-pine": "Pine crate flowerbed",
-    "apeflowerpots:block-cratepot-acacia": "Acacia crate flowerbed",
-    "apeflowerpots:block-cratepot-kapok": "Kapok crate flowerbed",
-    "apeflowerpots:block-cratepot-baldcypress": "Bald cypress crate flowerbed",
-    "apeflowerpots:block-cratepot-larch": "Larch crate flowerbed",
-    "apeflowerpots:block-cratepot-redwood": "Redwood crate flowerbed",
-    "apeflowerpots:block-cratepot-ebony": "Ebony crate flowerbed",
-    "apeflowerpots:block-cratepot-walnut": "Walnut crate flowerbed",
-    "apeflowerpots:block-cratepot-purpleheart": "Purpleheart crate flowerbed",
 
-    "apeflowerpots:block-cratepot-small": "Small crate flowerbed",
-    "apeflowerpots:block-cratepot-stackedsmall": "Stacked small crates flowerbed",
-    "apeflowerpots:block-cratepot-medium": "Medium crate flowerbed",
-    "apeflowerpots:block-cratepot-ruined1": "Ruined crate flowerbed",
+	"apeflowerpots:block-cratepot-aged": "Aged crate flowerbed",
+	"apeflowerpots:block-cratepot-birch": "Birch crate flowerbed",
+	"apeflowerpots:block-cratepot-oak": "Oak crate flowerbed",
+	"apeflowerpots:block-cratepot-maple": "Maple crate flowerbed",
+	"apeflowerpots:block-cratepot-pine": "Pine crate flowerbed",
+	"apeflowerpots:block-cratepot-acacia": "Acacia crate flowerbed",
+	"apeflowerpots:block-cratepot-kapok": "Kapok crate flowerbed",
+	"apeflowerpots:block-cratepot-baldcypress": "Bald cypress crate flowerbed",
+	"apeflowerpots:block-cratepot-larch": "Larch crate flowerbed",
+	"apeflowerpots:block-cratepot-redwood": "Redwood crate flowerbed",
+	"apeflowerpots:block-cratepot-ebony": "Ebony crate flowerbed",
+	"apeflowerpots:block-cratepot-walnut": "Walnut crate flowerbed",
+	"apeflowerpots:block-cratepot-purpleheart": "Purpleheart crate flowerbed",
 
-    "apeflowerpots:block-sodplanter-*": "Sod roof flowerbed",
-    "apeflowerpots:block-sodroofskep-harvestable-*": "Harvestable sodroof skep",
-    "apeflowerpots:block-sodroofskep-populated-*": "Populated sodroof skep",
-    "apeflowerpots:block-sodroofskep-empty-*": "Empty sodroof skep",
+	"apeflowerpots:block-cratepot-small": "Small crate flowerbed",
+	"apeflowerpots:block-cratepot-stackedsmall": "Stacked small crates flowerbed",
+	"apeflowerpots:block-cratepot-medium": "Medium crate flowerbed",
+	"apeflowerpots:block-cratepot-ruined1": "Ruined crate flowerbed",
+
+	"apeflowerpots:block-sodplanter-*": "Sod roof flowerbed",
+	"apeflowerpots:block-sodroofskep-harvestable-*": "Harvestable sodroof skep",
+	"apeflowerpots:block-sodroofskep-populated-*": "Populated sodroof skep",
+	"apeflowerpots:block-sodroofskep-empty-*": "Empty sodroof skep",
 
 	"apeflowerpots:material-aged": "(Aged)",
 	"apeflowerpots:material-oak": "(Oak)",
@@ -195,7 +200,12 @@
 	"apeflowerpots:block-rawwindowclayplanter-blue": "Unfired blue clay window plantbox",
 	"apeflowerpots:block-rawwindowclayplanter-red": "Unfired red clay window plantbox",
 	"apeflowerpots:block-rawwindowclayplanter-fire": "Unfired fire clay window plantbox",
+	"apeflowerpots:block-rawlargeplanter-blue": "Raw blue clay large planter",
+	"apeflowerpots:block-rawlargeplanter-red": "Raw red clay large planter",
+	"apeflowerpots:block-rawlargeplanter-fire": "Raw fire clay large planter",
 
+	"apeflowerpots:burnedlargeplanter": "Fired large planter",
+	"apeflowerpots:block-burnedlargeplanter-*": "Fired large planter",
 	"apeflowerpots:firedclayplanter": "Fired clay window plantbox",
 	"apeflowerpots:block-windowclayplanter-*": "Clay window plantbox",
 	"apeflowerpots:block-groundclayplanter-*": "Clay plantbox",
@@ -215,7 +225,7 @@
 	"apeflowerpots:item-patterntransfer-seasalt": "Transferable pattern (Seasalt)",
 	"apeflowerpots:item-patterntransfer-tenmoku": "Transferable pattern (Tenmoku)",
 	"apeflowerpots:item-patterntransfer-undergrowth": "Transferable pattern (Undergrowth)",
-	
+
 	"game:block--storagevessel-chthonic": "Storage vessel (Chtonic)",
 	"game:block--storagevessel-ashforest": "Storage vessel (Ashforest)",
 	"game:block--storagevessel-copper": "Storage vessel (Copper)",
@@ -224,7 +234,7 @@
 	"game:block--storagevessel-rime": "Storage vessel (Rime)",
 	"game:block--storagevessel-seasalt": "Storage vessel (Seasalt)",
 	"game:block--storagevessel-undergrowth": "Storage vessel (Undergrowth)",
-	
+
 	"apeflowerpots:item-planterpart-hook-iron": "Iron planter part"
 
 }

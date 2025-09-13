@@ -1651,6 +1651,15 @@
 							"leaves": { "base": "game:block/plant/reeds/tule" },
 							"flower": { "base": "game:block/plant/reeds/tule_tufts" }
 						}
+					},
+					"large4xContainer": {
+						"randomRotate": false,
+						"Transform": { "scale": 0.9 },
+						"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+						"textures": {
+							"leaves": { "base": "game:block/plant/reeds/tule" },
+							"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+						}
 					}
 				}
 			}

@@ -180,6 +180,9 @@
 			},
 			"clayboxgContainerByType": {
 				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}						
+			},
+			"large4xContainerByType": {
+				"*-callistephuschinensis-*": {"shape": {"base": "block/plant/flower/callistephuschinensis2"}}
 			}
 	},
 	"file": "floralzoneseastasiaticregion:blocktypes/plant/asters.json",

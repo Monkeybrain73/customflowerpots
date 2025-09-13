@@ -3007,6 +3007,46 @@
 			}
 		},
 		"side": "server"
+	},
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/flower.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"large4xContainerByType": {
+				"*-lilyofthevalley-*": { 
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/clay/largeplanter/contents-lilyofthevalley" }
+				},
+				"*": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/clay/largeplanter/contents" },
+					"textures": {
+						"north": { "base": "game:block/plant/potted/{flower}" },
+						"south": { "base": "game:block/plant/potted/{flower}" }
+					}
+				}
+			}
+		},
+		"side": "server"
+	},
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/flower-lupine.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"large4xContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/clay/largeplanter/contents" },
+					"textures": {
+						"north": { "base": "game:block/plant/potted/{flower}-{color}" },
+						"south": { "base": "game:block/plant/potted/{flower}-{color}" }
+					}
+			}
+		},
+		"side": "server"
 	}
 
 

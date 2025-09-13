@@ -2133,6 +2133,31 @@
 					"material": { "base": "game:block/stone/mineral/olivine" }
 				}
 			}
+		},
+		"large4xContainer": {
+			"shape": { "base": "apeflowerpots:planted/mineral/flowerpot-{variant}" },
+			"texturesByType": {
+				"crystal-milkyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/milkyquartz-top" },
+					"material": { "base": "game:block/stone/mineral/milkyquartz" }
+				},
+				"crystal-smokyquartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/smokyquartz" },
+					"material": { "base": "game:block/stone/mineral/smokyquartz" }
+				},
+				"crystal-rosequartz-*": {
+					"material-top": { "base": "game:block/stone/mineral/rosequartz-top" },
+					"material": { "base": "game:block/stone/mineral/rosequartz" }
+				},
+				"crystal-amethyst-*": {
+					"material-top": { "base": "game:block/stone/mineral/amethyst" },
+					"material": { "base": "game:block/stone/mineral/amethyst" }
+				},
+				"crystal-olivine-*": {
+					"material-top": { "base": "game:block/stone/mineral/olivine" },
+					"material": { "base": "game:block/stone/mineral/olivine" }
+				}
+			}
 		}
 	},
 	"side": "server"

@@ -625,6 +625,16 @@
 				"*-paeonialactiflora-*": {"shape": {"base": "block/plant/flower/platycodongrandiflorus2"},"textures": {"leaves": { "base": "block/plant/flower/stem/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
 				"*-platycodongrandiflorus-*": {"shape": {"base": "block/plant/flower/platycodongrandiflorus2"},"textures": {"leaves": { "base": "block/plant/flower/stem/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
 				"*-utriculariawarburgii-*": {"shape": {"base": "block/plant/flower/utriculariawarburgii1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
+			},
+			"large4xContainerByType": {
+				"*-deutziagracilis-*": {"shape": {"base": "block/plant/flower/deutziagracilis"},"textures": {"leaves": { "base": "block/plant/flower/stem/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-iristyphifolia-*": {"shape": {"base": "block/plant/flower/iristyphifolia-01"},"textures": {"leaves": { "base": "block/plant/flower/stem/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-liliumlancifolium-*": {"shape": {"base": "block/plant/flower/liliumlancifolium"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-lycorisradiata-*": {"shape": {"base": "block/plant/flower/lycorisradiata2"},"textures": {"leaves": { "base": "block/plant/flower/stem/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-loropetalumchinense-*": {"shape": {"base": "block/plant/flower/loropetalumchinense1"},"textures": {"smallleaves": { "base": "block/plant/leaves/small/loropetalumchinense" },"largeleaves": { "base": "block/plant/leaves/large/loropetalumchinense" }}},
+				"*-paeonialactiflora-*": {"shape": {"base": "block/plant/flower/platycodongrandiflorus2"},"textures": {"leaves": { "base": "block/plant/flower/stem/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-platycodongrandiflorus-*": {"shape": {"base": "block/plant/flower/platycodongrandiflorus2"},"textures": {"leaves": { "base": "block/plant/flower/stem/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-utriculariawarburgii-*": {"shape": {"base": "block/plant/flower/utriculariawarburgii1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}						
 			}
 	},
 	"file": "floralzoneseastasiaticregion:blocktypes/plant/flower.json",

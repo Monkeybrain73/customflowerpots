@@ -507,6 +507,14 @@
 				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
 				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
 				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
+			},
+			"large4xContainerByType": {
+				"*-agavechiapensis-*": {"shape": {"base": "block/plant/flower/agavechiapensis_var1"},"textures": {"agavechiapensis-leaf": { "base": "block/plant/flower/petal/agavechiapensis-leaf" }}},
+				"*-justiciaspicigera-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-pinguiculagigantea-*": {"shape": {"base": "block/plant/flower/pinguiculagigantea_var0"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-salvialeucantha-*": {"shape": {"base": "block/plant/flower/1patch-dense-shadeless-24x24"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-tradescantiazebrina-*": {"shape": {"base": "block/plant/flower/tradescantiazebrina_var1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-turneraulmifolia-*": {"shape": {"base": "block/plant/flower/1patch-3faces-shadeless-16x16"},"textures": {"north1": { "base": "block/plant/flower/petal/{type}" },"south1": { "base": "block/plant/flower/petal/{type}2" },"north3": { "base": "block/plant/flower/petal/{type}" }}}
 			}
 	},
 	"file": "floralzonescaribbeanregion:blocktypes/plant/flower.json",

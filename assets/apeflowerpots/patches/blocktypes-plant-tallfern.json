@@ -309,6 +309,12 @@
 				"randomRotate": false,
 				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
 				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
+			},
+			"large4xContainer": {
+				"randomRotate": false,
+				"Transform": { "scale": 0.9 },
+				"shape": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" },
+				"texture": { "base": "game:block/plant/fern/tallfern/flowerpot/var1" }
 			}
 		},
 		"side": "server"

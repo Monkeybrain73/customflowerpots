@@ -426,6 +426,11 @@
 				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
 				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
 				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
+			},
+			"large4xContainerByType": {
+				"*-celmisiaangustifolia-*": {"shape": {"base": "block/plant/flower/celmisiaangustifolia3"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-droserabinata-*": {"shape": {"base": "block/plant/flower/droserabinata1"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" },"flower2": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-ranunculuslyallii-*": {"shape": {"base": "block/plant/flower/ranunculuslyallii5"},"textures": {"leaves": { "base": "block/plant/flower/leaves/{type}" },"flower": { "base": "block/plant/flower/petal/{type}" }}}				
 			}
 	},
 	"file": "floralzonesneozeylandicregion:blocktypes/plant/flower.json",

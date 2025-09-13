@@ -428,6 +428,15 @@
 					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
 					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
 				}
+			},
+			"large4xContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/papyrus-flowerpot" },
+				"textures": {
+					"sheaves": { "base": "game:block/plant/flower/petal/sheaves" },
+					"tuft": { "base": "game:block/plant/flower/petal/tuft" },
+					"stem-medium": { "base": "game:block/plant/flower/stem/papyrus-medium" }
+				}
 			}
 		},
 		"side": "server"
@@ -877,6 +886,14 @@
 					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
 					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
 				}
+			},
+			"large4xContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/coopersreed-flowerpot" },
+				"textures": {
+					"cobs1": { "base": "game:block/plant/reeds/lod2-1" },
+					"cobs2": { "base": "game:block/plant/reeds/lod2-2" }
+				}
 			}
 		},
 		"side": "server"
@@ -1300,6 +1317,14 @@
 				}
 			},
 			"claybox1sContainer": {
+				"randomRotate": false,
+				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
+				"textures": {
+					"leaves": { "base": "game:block/plant/reeds/tule" },
+					"flower": { "base": "game:block/plant/reeds/tule_tufts" }
+				}
+			},
+			"large4xContainer": {
 				"randomRotate": false,
 				"shape": { "base": "apeflowerpots:block/plant/reeds/tule-flowerpot" },
 				"textures": {

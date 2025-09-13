@@ -834,6 +834,19 @@
 				"*-sempervivumtectorum-*": {"shape": {"base": "block/plant/flower/sempervivumtectorum_01"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}2" }}},	
 				"*-silybummarianum-*": {"shape": {"base": "block/plant/flower/silybummarianum_01"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
 				"*-tracheliumcaeruleum-*": {"shape": {"base": "block/plant/flower/tracheliumcaeruleum_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/{type}" },"flower": { "base": "block/plant/flower/petal/tracheliumcaeruleum1" }}}						
+			},
+			"large4xContainerByType": {
+				"*-calendulaarvensis-*": {"shape": {"base": "block/plant/flower/calendulaarvensis_02"},"textures": {"leaves": { "base": "block/plant/flower/stem/calendulaarvensis1" },"flower": { "base": "block/plant/flower/petal/calendulaarvensis1" }}},		
+				"*-centaureagymnocarpa-*": {"shape": {"base": "block/plant/flower/centaureagymnocarpa_02"},"textures": {"flower1": { "base": "block/plant/flower/petal/{type}2" },"flower2": { "base": "block/plant/flower/petal/{type}1" }}},	
+				"*-cyclamenafricanum-*": {"shape": {"base": "block/plant/flower/cyclamenafricanum_02"},"textures": {"leaves": { "base": "block/plant/flower/stem/cyclamenafricanum1" },"flower": { "base": "block/plant/flower/petal/cyclamenafricanum1" }}},	
+				"*-cynaracardunculus-*": {"shape": {"base": "block/plant/flower/cynaracardunculus_02"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}1" }}},		
+				"*-dianthuscaryophyllus-*": {"shape": {"base": "block/plant/flower/dianthuscaryophyllus_05"},"textures": {"leaves": { "base": "block/plant/flower/stem/dianthuscaryophyllus1" },"flower": { "base": "block/plant/flower/petal/dianthuscaryophyllus1","alternates": [ { "base": "block/plant/flower/petal/dianthuscaryophyllus2"}, { "base": "block/plant/flower/petal/dianthuscaryophyllus3"}, { "base": "block/plant/flower/petal/dianthuscaryophyllus4"}, { "base": "block/plant/flower/petal/dianthuscaryophyllus5"} ] }}},	
+				"*-drosophyllumlusitanicum-*": {"shape": {"base": "block/plant/flower/drosophyllumlusitanicum_01"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},	
+				"*-narcissusjonquilla-*": {"shape": {"base": "block/plant/flower/narcissusjonquilla_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/narcissusjonquilla1" },"flower": { "base": "block/plant/flower/petal/narcissusjonquilla1" }}},	
+				"*-orchisitalica-*": {"shape": {"base": "block/plant/flower/orchisitalica_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/orchisitalica1" },"flower": { "base": "block/plant/flower/petal/orchisitalica1" }}},		
+				"*-sempervivumtectorum-*": {"shape": {"base": "block/plant/flower/sempervivumtectorum_01"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}2" }}},	
+				"*-silybummarianum-*": {"shape": {"base": "block/plant/flower/silybummarianum_01"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},				
+				"*-tracheliumcaeruleum-*": {"shape": {"base": "block/plant/flower/tracheliumcaeruleum_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/{type}" },"flower": { "base": "block/plant/flower/petal/tracheliumcaeruleum1" }}}						
 			}
 	},
 	"file": "floralzonesmediterraneanregion:blocktypes/plant/flower.json",

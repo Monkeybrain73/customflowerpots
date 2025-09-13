@@ -248,6 +248,11 @@
 			"claybox1sContainer": {
 				"randomRotate": false,
 				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
+			},
+			"large4xContainer": {
+				"randomRotate": false,
+				"Transform": { "scale": 0.7 },
+				"shape": { "base": "game:block/plant/croton/{size}/{color}" }
 			}
 		},
 		"side": "server"

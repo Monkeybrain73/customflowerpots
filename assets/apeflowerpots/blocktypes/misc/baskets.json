@@ -41,8 +41,8 @@
 			"*": { "base": "apeflowerpots:block/misc/{type}/full" }
 		},
 		"fillHeightByType":{
-			"*-handbasket": 0.210,
-			"*-basket": 0.430
+			"*-handbasket-*": 0.210,
+			"*-basket-*": 0.430
 		}
 	},
 	"creativeinventory": { "general": ["*"], "decorative": ["*"], "apeflowerpots": ["*"] },

@@ -254,6 +254,11 @@
 					"randomRotate": false,
 					"Transform": { "translation": { "x": 0.0, "y": 0.24,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.9 },
 					"shape": { "base": "game:block/plant/rafflesia/{color}" }
+				},
+				"large4xContainer": {
+					"randomRotate": false,
+					"Transform": { "scale": 0.7 },
+					"shape": { "base": "game:block/plant/rafflesia/{color}" }
 				}
 			}
 		},

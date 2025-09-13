@@ -345,6 +345,10 @@
 				"randomRotate": false,
 				"Transform": { "translation": { "x": 0.0, "y": 0.24,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
 				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
+			},
+			"large4xContainer": {
+				"randomRotate": true,
+				"shape": { "base": "game:block/plant/mushroom/{mushroom}/flowerpot/normal*" }
 			}
 		},
 		"side": "server"

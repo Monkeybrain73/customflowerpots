@@ -378,6 +378,11 @@
 				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
 				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
 				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
+			},
+			"large4xContainerByType": {
+				"*-byblispilbarana-*": {"shape": {"base": "block/plant/flower/byblispilbarana"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}},
+				"*-polycalymmastuartii-*": {"shape": {"base": "block/plant/flower/polycalymmastuartii"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}	,				
+				"*-ptilotusexaltatus-*": {"shape": {"base": "block/plant/flower/ptilotusexaltatus"},"textures": {"flower": { "base": "block/plant/flower/petal/{type}" }}}					
 			}
 	},
 	"file": "floralzonescentralaustralianregion:blocktypes/plant/flower.json",

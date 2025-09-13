@@ -697,6 +697,14 @@
 						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
 						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
 					}
+				},
+				"large4xContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/plant/berrybush/{type}/small/medium*" },
+					"textures": {
+						"leavessmall": { "base": "game:block/plant/berrybush/small/leaves/{type}1" },
+						"leaveslarge": { "base": "game:block/plant/berrybush/large/leaves/{type}" }
+					}
 				}
 			}
 		},

@@ -199,6 +199,9 @@
 			},
 			"claybox1sContainer": {
 				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
+			},
+			"large4xContainer": {
+				"shape": { "base": "block/plant/silvertorchcactus/flowerpot/normal*" }
 			}
 		},
 		"side": "server"

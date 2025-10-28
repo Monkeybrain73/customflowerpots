@@ -49,4 +49,61 @@
     <Folder Include="assets\apeflowerpots\shapes\block\clay\windowbox\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="assets\apeflowerpots\blocktypes\boots\reusedboots.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\clay\anvilmold\anvilmoldplanter.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\clay\fired\clayproducts-fired.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\clay\fired\firedlargeplanter.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\clay\fired\firedwindowclayplanter.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\clay\groundclayplanter.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\clay\largeplanter.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\clay\raw\rawlargeplanter .json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\clay\raw\rawwindowplanter.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\clay\storagevessel\vesselpot-fired.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\clay\storagevessel\vesselpot-raw.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\clay\storagevessel\vesselpot.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\clay\windowclayplanter.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\misc\baskets.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\misc\miscflowerpots.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\wood\cratepot.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\wood\sodroofplanter.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="assets\apeflowerpots\blocktypes\wood\windowbox.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

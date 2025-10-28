@@ -1,0 +1,273 @@
+[
+{
+	"enabled": true,
+	"op": "addmerge",
+	"path": "/attributes/plantContainable",
+	"value": {
+			"anvilContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+			},
+			"cratenormalContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+			},
+			"crateruined1Container": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"cratesmallContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"cratesmallstackedContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"cratemediumContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"crateagedContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"troughlargeContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"metalbarrel1Container": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"metalbarrel2Container": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"metaltank1Container": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"barrelContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"sodplanterNContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"sodplanterWContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"sodplanterSContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"sodplanterEContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_02"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"bucketContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"ruinedbucketContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+				},
+			"crockContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"cookpotdirtyContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"cookpotContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"crucibleContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"ingotmoldContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"wateringcanContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"woodenpanContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"backpacknormalContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"handbasketContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"basketContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"troughsmallContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"vesselContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"alchemistContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"blackguardContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"commonerContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"forlornContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"reindeerherderContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"steppeContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"highleatherContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"hunterContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"jailorContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"kingContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"kneehighContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"lackeyContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"malefactorContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"metalcapContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"minerContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"minstrelContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"nomadContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"princeContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"rottenkingContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"rotwalkerContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"squireContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"survivorContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"temptressContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"woolContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"messengerContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"chutesectionContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"chuteelbowContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"chutetContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"clayboxgContainer": {
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }			},
+			"woodbox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.78,"z": -0.35 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"woodbox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.35, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"woodbox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.35, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"woodbox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.78,"z": 0.35 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"wattlebox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.78,"z": -0.35 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"wattlebox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.35, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"wattlebox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.35, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"wattlebox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.78,"z": 0.35 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"rustbox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.78,"z": -0.35 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"rustbox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.35, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"rustbox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.35, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"rustbox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.78,"z": 0.35 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"metalbox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.78,"z": -0.35 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"metalbox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.35, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"metalbox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.35, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"metalbox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.78,"z": 0.35 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"metalbox2nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.78,"z": -0.35 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"metalbox2eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.35, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"metalbox2wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.35, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"metalbox2sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.78,"z": 0.35 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"claybox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.78,"z": -0.35 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"claybox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.35, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"claybox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.35, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"claybox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.78,"z": 0.35 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {"base": "block/plant/flower/antirrhinummajus_01"},"textures": {"leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" }}
+			},
+			"large4xContainer": {
+				"randomRotate": false,
+				"Transform": { "scale": 1.0 },
+				"shape": { "base": "block/plant/flower/antirrhinummajus_01"},"textures": { "leaves": { "base": "block/plant/flower/stem/antirrhinummajus1" },"flower": { "base": "block/plant/flower/petal/antirrhinummajus{color}" } }
+			}
+	},
+	"file": "floralzonesmediterraneanregion:blocktypes/plant/snapdragon.json",
+	"side": "server",
+    "dependsOn": [{ "modid": "floralzonesmediterraneanregion" }]
+}
+]

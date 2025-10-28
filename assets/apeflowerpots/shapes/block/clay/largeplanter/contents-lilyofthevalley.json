@@ -8,13 +8,13 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"lilyofthevalley1": "block/plant/flower/petal/lilyofthevalley1",
-		"lilyofthevalley2": "block/plant/flower/petal/lilyofthevalley2",
-		"lilyofthevalley3": "block/plant/flower/petal/lilyofthevalley3",
-		"flower1": "block/plant/flower/stem/lilyofthevalley1",
-		"flower2": "block/plant/flower/stem/lilyofthevalley2",
-		"flower3": "block/plant/flower/stem/lilyofthevalley3",
-		"leaves1": "block/plant/flower/stem/lilyofthevalleyleaves"
+		"lilyofthevalley1": "game:block/plant/flower/petal/lilyofthevalley1",
+		"lilyofthevalley2": "game:block/plant/flower/petal/lilyofthevalley2",
+		"lilyofthevalley3": "game:block/plant/flower/petal/lilyofthevalley3",
+		"flower1": "game:block/plant/flower/stem/lilyofthevalley1",
+		"flower2": "game:block/plant/flower/stem/lilyofthevalley2",
+		"flower3": "game:block/plant/flower/stem/lilyofthevalley3",
+		"leaves1": "game:block/plant/flower/stem/lilyofthevalleyleaves"
 	},
 	"elements": [
 		{

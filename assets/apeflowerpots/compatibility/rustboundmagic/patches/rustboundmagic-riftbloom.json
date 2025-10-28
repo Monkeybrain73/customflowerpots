@@ -1,0 +1,1103 @@
+[
+{
+	"enabled": true,
+	"op": "addmerge",
+	"path": "/attributes/plantContainable",
+	"value": {
+			"anvilContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"cratenormalContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"crateruined1Container": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"cratesmallContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"cratesmallstackedContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"cratemediumContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"crateagedContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"troughlargeContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"metalbarrel1Container": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"metalbarrel2Container": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"metaltank1Container": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"barrelContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"sodplanterNContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"sodplanterWContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"sodplanterSContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"sodplanterEContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"bucketContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"ruinedbucketContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2" },
+					{ "base": "blocks/plants/riftbloom3" },
+					{ "base": "blocks/plants/riftbloom4" },
+					{ "base": "blocks/plants/riftbloom5" },
+					{ "base": "blocks/plants/riftbloom6" }
+				  ]
+				}
+			},
+			"crockContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"cookpotdirtyContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"cookpotContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"crucibleContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"ingotmoldContainer": {
+				"Transform": { "scale": 0.7 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"wateringcanContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"woodenpanContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"backpacknormalContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"handbasketContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"basketContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"troughsmallContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"vesselContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"alchemistContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"blackguardContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"commonerContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"forlornContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"reindeerherderContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"steppeContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"highleatherContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"hunterContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"jailorContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"kingContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"kneehighContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"lackeyContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"malefactorContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"metalcapContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"minerContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"minstrelContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"nomadContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"princeContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"rottenkingContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"rotwalkerContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"squireContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"survivorContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"temptressContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"woolContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"messengerContainer": {
+				"Transform": { "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"chutesectionContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"chuteelbowContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"chutetContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"clayboxgContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"woodbox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.78,"z": -0.29 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"woodbox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.29, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"woodbox1wContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": -0.29, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"woodbox1sContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.0, "y": 0.78,"z": 0.29 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"wattlebox1nContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.0, "y": 0.78,"z": -0.29 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"wattlebox1eContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.29, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"wattlebox1wContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": -0.29, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"wattlebox1sContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.0, "y": 0.78,"z": 0.29 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"rustbox1nContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.0, "y": 0.78,"z": -0.29 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"rustbox1eContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.29, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"rustbox1wContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": -0.29, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"rustbox1sContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.0, "y": 0.78,"z": 0.29 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"metalbox1nContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.0, "y": 0.78,"z": -0.29 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"metalbox1eContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.29, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"metalbox1wContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": -0.29, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"metalbox1sContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.0, "y": 0.78,"z": 0.29 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"metalbox2nContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.0, "y": 0.78,"z": -0.20 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.75 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"metalbox2eContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.20, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.75 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"metalbox2wContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": -0.20, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.75 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"metalbox2sContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.0, "y": 0.78,"z": 0.20 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.75 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"claybox1nContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.0, "y": 0.78,"z": -0.29 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"claybox1eContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.29, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"claybox1wContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": -0.29, "y": 0.78,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"claybox1sContainer": {
+				  "randomRotate": false,
+				  "Transform": { "translation": { "x": 0.0, "y": 0.78,"z": 0.29 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 0.8 },
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			},
+			"large4xContainer": {
+				"shape": {
+				  "base": "blocks/plants/riftbloom1",
+				  "alternates": [
+					{ "base": "blocks/plants/riftbloom2"},
+					{ "base": "blocks/plants/riftbloom3"},
+					{ "base": "blocks/plants/riftbloom4"},
+					{ "base": "blocks/plants/riftbloom5"},
+					{ "base": "blocks/plants/riftbloom6"}
+				  ]
+				}
+			}
+	},
+	"file": "rustboundmagic:blocktypes/plants/riftbloom.json",
+	"side": "server",
+    "dependsOn": [{ "modid": "rustboundmagic" }]
+}
+]

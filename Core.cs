@@ -5,7 +5,7 @@ using Vintagestory.API.Server;
 [assembly: ModInfo("Custom Flowerpots",
                     Authors = new string[] { "xXx_Ape_xXx" },
                     Description = "Recycle old anvil molds, boots etc. as flowerpots",
-                    Version = "1.3.1")]
+                    Version = "1.3.2")]
 
 
 namespace customflowerpots

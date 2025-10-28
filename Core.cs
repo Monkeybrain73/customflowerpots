@@ -19,8 +19,14 @@ namespace customflowerpots
             base.Start(api);
 
             api.RegisterBlockClass("CustomPlanter", typeof(BlockCustomPlanter));
+            api.RegisterBlockClass("CustomPlanter2x", typeof(BlockPlantContainer2x));
             api.RegisterBlockClass("CustomPlanter4x", typeof(BlockPlantContainer4x));
+            api.RegisterBlockClass("CustomPlanter6x", typeof(BlockPlantContainer6x));
+
+            api.RegisterBlockEntityClass("CustomPlanter2x", typeof(BlockEntityCustomPlantContainer2x));
             api.RegisterBlockEntityClass("CustomPlanter4x", typeof(BlockEntityCustomPlantContainer4x));
+            api.RegisterBlockEntityClass("CustomPlanter6x", typeof(BlockEntityCustomPlantContainer6x));
+
             api.RegisterBlockBehaviorClass("CF.BBName", typeof(BlockBehaviorName));
 
             // api.RegisterBlockClass("BlockSodSkep", typeof(BlockSodSkep));

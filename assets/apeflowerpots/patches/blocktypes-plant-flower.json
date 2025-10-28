@@ -2814,6 +2814,165 @@
 		"file": "game:blocktypes/plant/flower.json",
 		"path": "/attributes/plantContainable",
 		"value": {
+			"metalbox2wContainerByType": {
+				"*-lilyofthevalley-*": { 
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/misc/windowbox/metalbox2w/contents-lilyofthevalley" }
+				},
+				"*": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/misc/windowbox/metalbox2w/contents" },
+					"textures": {
+						"north": { "base": "game:block/plant/potted/{flower}" },
+						"south": { "base": "game:block/plant/potted/{flower}" }
+					}
+				}
+			}
+		},
+		"side": "server"
+	},
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/flower-lupine.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"metalbox2wContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/misc/windowbox/metalbox2w/contents" },
+					"textures": {
+						"north": { "base": "game:block/plant/potted/{flower}-{color}" },
+						"south": { "base": "game:block/plant/potted/{flower}-{color}" }
+					}
+			}
+		},
+		"side": "server"
+	},
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/flower.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"metalbox2sContainerByType": {
+				"*-lilyofthevalley-*": { 
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/misc/windowbox/metalbox2s/contents-lilyofthevalley" }
+				},
+				"*": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/misc/windowbox/metalbox2s/contents" },
+					"textures": {
+						"north": { "base": "game:block/plant/potted/{flower}" },
+						"south": { "base": "game:block/plant/potted/{flower}" }
+					}
+				}
+			}
+		},
+		"side": "server"
+	},
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/flower-lupine.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"metalbox2sContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/misc/windowbox/metalbox2s/contents" },
+					"textures": {
+						"north": { "base": "game:block/plant/potted/{flower}-{color}" },
+						"south": { "base": "game:block/plant/potted/{flower}-{color}" }
+					}
+			}
+		},
+		"side": "server"
+	},	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/flower.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"metalbox2nContainerByType": {
+				"*-lilyofthevalley-*": { 
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/misc/windowbox/metalbox2n/contents-lilyofthevalley" }
+				},
+				"*": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/misc/windowbox/metalbox2n/contents" },
+					"textures": {
+						"north": { "base": "game:block/plant/potted/{flower}" },
+						"south": { "base": "game:block/plant/potted/{flower}" }
+					}
+				}
+			}
+		},
+		"side": "server"
+	},
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/flower-lupine.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"metalbox2nContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/misc/windowbox/metalbox2n/contents" },
+					"textures": {
+						"north": { "base": "game:block/plant/potted/{flower}-{color}" },
+						"south": { "base": "game:block/plant/potted/{flower}-{color}" }
+					}
+			}
+		},
+		"side": "server"
+	},
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/flower.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"metalbox2eContainerByType": {
+				"*-lilyofthevalley-*": { 
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/misc/windowbox/metalbox2e/contents-lilyofthevalley" }
+				},
+				"*": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/misc/windowbox/metalbox2e/contents" },
+					"textures": {
+						"north": { "base": "game:block/plant/potted/{flower}" },
+						"south": { "base": "game:block/plant/potted/{flower}" }
+					}
+				}
+			}
+		},
+		"side": "server"
+	},
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/flower-lupine.json",
+		"path": "/attributes/plantContainable",
+		"value": {
+			"metalbox2eContainer": {
+					"randomRotate": false,
+					"shape": { "base": "apeflowerpots:block/misc/windowbox/metalbox2e/contents" },
+					"textures": {
+						"north": { "base": "game:block/plant/potted/{flower}-{color}" },
+						"south": { "base": "game:block/plant/potted/{flower}-{color}" }
+					}
+			}
+		},
+		"side": "server"
+	},
+	{
+		"enabled": true,
+		"op": "addmerge",
+		"file": "game:blocktypes/plant/flower.json",
+		"path": "/attributes/plantContainable",
+		"value": {
 			"claybox1nContainerByType": {
 				"*-lilyofthevalley-*": { 
 					"randomRotate": false,

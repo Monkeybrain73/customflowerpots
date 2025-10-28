@@ -449,6 +449,34 @@
 					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
 				}
 			},
+			"metalbox2nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"metalbox2eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"metalbox2wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.28, "y": 0.88,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
+			"metalbox2sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": 0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },
+				"shapeByType": {
+					"*": { "base": "apeflowerpots:block/plant/saplings/{wood}-small" }
+				}
+			},
 			"claybox1nContainer": {
 				"randomRotate": false,
 				"Transform": { "translation": { "x": 0.0, "y": 0.88,"z": -0.28 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.0 },

@@ -245,20 +245,124 @@
 				"randomRotate": false,
 				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
 			},
+			"woodbox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.98,"z": -0.25 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"woodbox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.25, "y": 0.98,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"woodbox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.25, "y": 0.98,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"woodbox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.98,"z": 0.25 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"wattlebox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.98,"z": -0.25 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"wattlebox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.25, "y": 0.98,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"wattlebox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.25, "y": 0.98,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"wattlebox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.98,"z": 0.25 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"rustbox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.98,"z": -0.25 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"rustbox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.25, "y": 0.98,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"rustbox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.25, "y": 0.98,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"rustbox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.98,"z": 0.25 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"metalbox1nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.98,"z": -0.25 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"metalbox1eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.25, "y": 0.98,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"metalbox1wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.25, "y": 0.98,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"metalbox1sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.98,"z": 0.25 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"metalbox2nContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.98,"z": -0.25 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"metalbox2eContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.25, "y": 0.98,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"metalbox2wContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.25, "y": 0.98,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
+			"metalbox2sContainer": {
+				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.98,"z": 0.25 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
+				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
+			},
 			"claybox1nContainer": {
 				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.98,"z": -0.25 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
 				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
 			},
 			"claybox1eContainer": {
 				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.25, "y": 0.98,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
 				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
 			},
 			"claybox1wContainer": {
 				"randomRotate": false,
+				"Transform": { "translation": { "x": -0.25, "y": 0.98,"z": 0.0 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
 				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
 			},
 			"claybox1sContainer": {
 				"randomRotate": false,
+				"Transform": { "translation": { "x": 0.0, "y": 0.98,"z": 0.25 },"rotation": { "x": 0, "y": 0, "z": 0 }, "scale": 1.1 },
 				"shape": { "base": "game:block/plant/barrelcactus/flowerpot/normal*" }
 			},
 			"large4xContainer": {
